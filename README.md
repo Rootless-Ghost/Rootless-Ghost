@@ -27,12 +27,6 @@
 ## About Me
 Combat Veteran & Former Navy Corpsman turned cybersecurity professional. Specializing in penetration testing with minimal footprint methodologies.
 
-## Approach
-My "rootless" methodology focuses on:
-- Network vulnerability assessment without privileged access
-- Low-detection penetration testing techniques
-- Custom security tool development for defensive operations
-
 
 
 
