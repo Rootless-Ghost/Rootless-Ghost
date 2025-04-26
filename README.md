@@ -1,3 +1,15 @@
+# Rootless.Ghost
+
+## About Me
+Combat Veteran & Former Navy Corpsman turned cybersecurity professional. Specializing in penetration testing with minimal footprint methodologies.
+
+## Approach
+My "rootless" methodology focuses on:
+- Network vulnerability assessment without privileged access
+- Low-detection penetration testing techniques
+- Custom security tool development for defensive operations
+
+
 <h1 align="left"></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=200&size=16&pause=1000&color=9D1AF7&center=true&multiline=true&width=435&lines=Hello+this+is+my+Github+profile,;The+quieter+you+become,+the+more+you+can+hear.+)](https://git.io/typing-svg)
