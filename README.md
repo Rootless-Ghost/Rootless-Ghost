@@ -1,14 +1,5 @@
 # Rootless.Ghost
 
-## About Me
-Combat Veteran & Former Navy Corpsman turned cybersecurity professional. Specializing in penetration testing with minimal footprint methodologies.
-
-## Approach
-My "rootless" methodology focuses on:
-- Network vulnerability assessment without privileged access
-- Low-detection penetration testing techniques
-- Custom security tool development for defensive operations
-
 
 <h1 align="left"></h1>
 
@@ -32,6 +23,15 @@ My "rootless" methodology focuses on:
 
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-8A2BE2?style=for-the-badge&logo=tryhackme&logoColor=FF0000)](https://tryhackme.com/p/RootlessGhost) 
+
+## About Me
+Combat Veteran & Former Navy Corpsman turned cybersecurity professional. Specializing in penetration testing with minimal footprint methodologies.
+
+## Approach
+My "rootless" methodology focuses on:
+- Network vulnerability assessment without privileged access
+- Low-detection penetration testing techniques
+- Custom security tool development for defensive operations
 
 
 
