@@ -34,6 +34,8 @@ My "rootless" methodology focuses on:
 - Custom security tool development for defensive operations
 
 
+
+
 "I am rootless, but never lost."
 
 
