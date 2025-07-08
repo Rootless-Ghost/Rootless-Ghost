@@ -24,8 +24,7 @@
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-8A2BE2?style=for-the-badge&logo=tryhackme&logoColor=FF0000)](https://tryhackme.com/p/RootlessGhost) 
 
-## About Me
-Combat Veteran & Former Navy Corpsman turned cybersecurity professional. Specializing in penetration testing with minimal footprint methodologies.
+
 
 
 
