@@ -18,12 +18,19 @@
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/RootlessGhost.png)](https://tryhackme.com/p/RootlessGhost)
 
 
+## 💀 Current Focus
+- Active Directory exploitation techniques
+- Network pivoting & privilege escalation
+- Building comprehensive pentesting documentation
 
 
 
 
 
+##
 
+
+##
 
 
 ![Syntax Eyes](syntax-eyes.gif)
