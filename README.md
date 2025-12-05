@@ -26,7 +26,7 @@
 - 🏢 Active Directory & Windows exploitation
 - 🌐 Network security & privilege escalation
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rootless-Ghost&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=ffffff)
+![](https://github-readme-stats.vercel.app/api?username=Rootless-Ghost&show_icons=true&theme=synthwave)
 
 
 
