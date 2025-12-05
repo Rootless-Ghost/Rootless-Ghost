@@ -26,9 +26,9 @@
 - 🏢 Active Directory & Windows exploitation
 - 🌐 Network security & privilege escalation
 
-![Rootless-Ghost's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rootless-Ghost&show_icons=true&theme=radical)
+![GitHub Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=Rootless-Ghost&color=8b5cf6&style=flat-square&label=Profile+Views)
 
 ## 💀 Current Focus
 - Active Directory attack paths & exploitation
