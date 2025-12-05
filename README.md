@@ -18,11 +18,21 @@
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/RootlessGhost.png)](https://tryhackme.com/p/RootlessGhost)
 
 
+
+## 🎯 What I Do
+- 🔐 Penetration Testing & Security Research
+- 🏆 Top 3% on TryHackMe
+- ⚔️ Red team operations & exploitation
+- 🏢 Active Directory & Windows exploitation
+- 🌐 Network security & privilege escalation
+
 ## 💀 Current Focus
-- Active Directory exploitation techniques
-- Network pivoting & privilege escalation
+- Active Directory attack paths & exploitation
+- Network pivoting & lateral movement
+- Post-exploitation techniques
+- Privilege escalation methodologies
 - Building comprehensive pentesting documentation
-
+- Hardware security (Flipper Zero)
 
 
 
@@ -30,7 +40,6 @@
 ##
 
 
-##
 
 
 ![Syntax Eyes](syntax-eyes.gif)
@@ -46,7 +55,5 @@
 
 
 
-
-###
 
 ###
