@@ -16,12 +16,12 @@
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/RootlessGhost.png)](https://tryhackme.com/p/RootlessGhost)
 
+![Cyberpunk](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 
 
 
-
-"I am rootless, but never lost."
+"Stay Humble, Keep Hacking."
 
 
 ###
