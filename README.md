@@ -21,7 +21,7 @@
 
 
 
-![image alt](https://github.com/Epyon-Nebula/Epyon-Nebula/blob/28e3d9cf43506da3cc8d78cbf8e47d01418c9907/Epyon-eyes.gphy.gif)
+![Syntax Eyes](syntax-eyes.gif)
 
 ![image_alt](https://github.com/Rootless-Ghost/Epyon-Nebula/blob/main/Peronist%20gundam.gif)
 
