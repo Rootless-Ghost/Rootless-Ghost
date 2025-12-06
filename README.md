@@ -35,6 +35,21 @@
 - Building comprehensive pentesting documentation
 - Hardware security (Flipper Zero)
 
+🎯 Lab Environments
+
+- Active Directory lab
+- Docker-based web vulnerability testing environment
+- WiFi penetration testing lab
+- VMware Workstation penetration testing environment
+
+##📝 Featured Projects (if you have/make any):
+
+##- Pentesting documentation/notes repository
+##- Custom scripts or tools
+##- Write-ups from labs/CTFs
+##- Your Obsidian pentesting vault (public version)
+
+
 
 
 
