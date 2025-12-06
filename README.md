@@ -42,13 +42,13 @@
 - WiFi penetration testing lab
 - VMware Workstation penetration testing environment
 
-##📝 Featured Projects (if you have/make any):
+<!--## 📝 Featured Projects (if you have/make any):
 
 ##- Pentesting documentation/notes repository
 ##- Custom scripts or tools
 ##- Write-ups from labs/CTFs
 ##- Your Obsidian pentesting vault (public version)
-
+-->
 
 
 
