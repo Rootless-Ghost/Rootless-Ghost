@@ -35,7 +35,7 @@
 - Building comprehensive pentesting documentation
 - Hardware security (Flipper Zero)
 
-🎯 Lab Environments
+## 🎯 Lab Environments
 
 - Active Directory lab
 - Docker-based web vulnerability testing environment
