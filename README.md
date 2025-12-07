@@ -16,7 +16,8 @@
 
 
  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red)](https://tryhackme.com) [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/RootlessGhost.png)](https://tryhackme.com/p/RootlessGhost)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/RootlessGhost.png)](https://tryhackme.com/p/RootlessGhost)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red)](https://tryhackme.com) 
 
 
 
