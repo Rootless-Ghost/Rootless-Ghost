@@ -15,8 +15,8 @@
  [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) ![TCP/IP](https://img.shields.io/badge/TCP/IP-0066CC?style=for-the-badge&logo=cisco&logoColor=white) ![DNS](https://img.shields.io/badge/DNS-3C3C3D?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red)](https://tryhackme.com) 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/RootlessGhost.png)](https://tryhackme.com/p/RootlessGhost)
+ 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red)](https://tryhackme.com) [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/RootlessGhost.png)](https://tryhackme.com/p/RootlessGhost)
 
 
 
