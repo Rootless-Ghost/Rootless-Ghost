@@ -21,7 +21,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red)](https://tryhackme.com) 
 
 
-![PJPT](https://img.shields.io/badge/PJPT-In%10Progress-purple?style=for-the-badge)
+[![PJPT](https://img.shields.io/badge/PJPT-In%20Progress-purple?style=for-the-badge)]()
 
 
 
