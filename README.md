@@ -37,6 +37,7 @@
 - Privilege escalation methodologies
 - Building comprehensive pentesting documentation
 - Hardware security (Flipper Zero)
+- ![PJPT](https://img.shields.io/badge/PJPT-In%20Progress-orange?style=for-the-badge)
 
 ## 🎯 Lab Environments
 
