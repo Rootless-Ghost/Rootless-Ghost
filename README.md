@@ -64,6 +64,7 @@
 [![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=white)](https://hashcat.net/hashcat/) 
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
+[![BloodHound](https://img.shields.io/badge/BloodHound-darkred?style=for-the-badge)](https://bloodhound.specterops.io/get-started/quickstart/community-edition-quickstart)
 
 
 
