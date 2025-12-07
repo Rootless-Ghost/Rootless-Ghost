@@ -21,6 +21,11 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red)](https://tryhackme.com) 
 
 
+![PJPT](https://img.shields.io/badge/PJPT-In%10Progress-purple?style=for-the-badge)
+
+
+
+
 
 ## 🎯 What I Do
 - 🔐 Penetration Testing & Security Research
@@ -37,7 +42,7 @@
 - Privilege escalation methodologies
 - Building comprehensive pentesting documentation
 - Hardware security (Flipper Zero)
-- ![PJPT](https://img.shields.io/badge/PJPT-In%20Progress-orange?style=for-the-badge)
+
 
 ## 🎯 Lab Environments
 
