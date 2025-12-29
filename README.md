@@ -15,6 +15,7 @@
  
 <img src="https://tryhackme-badges.s3.amazonaws.com/RootlessGhost.png" alt="Your Image Badge" />
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2818278" style='border:none;'></iframe>
 
 
 
