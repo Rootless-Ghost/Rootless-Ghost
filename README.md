@@ -14,6 +14,10 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red)](https://tryhackme.com) 
  
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/RootlessGhost.png)](https://tryhackme.com/p/RootlessGhost)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2818278" style='border:none;'></iframe>
+
+
+
 
 [![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) 
 [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) 
@@ -47,9 +51,9 @@
 ## 🎯 Lab Environments
 
 - Active Directory lab
-- Docker-based web vulnerability testing environment
+- Web vulnerability testing environment
 - WiFi penetration testing lab
-- VMware Workstation penetration testing environment
+
 
 <!--## 📝 Featured Projects (if you have/make any):
 
