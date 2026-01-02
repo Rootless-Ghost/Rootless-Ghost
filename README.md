@@ -11,7 +11,7 @@
 
 
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red)](https://tryhackme.com) 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25-red)](https://tryhackme.com) 
  
 <img src="https://tryhackme-badges.s3.amazonaws.com/RootlessGhost.png" alt="Your Image Badge" />
 
