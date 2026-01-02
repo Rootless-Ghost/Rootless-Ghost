@@ -27,7 +27,7 @@
 
 ## 🎯 What I Do
 - 🔐 Penetration Testing & Security Research
-- 🏆 Top 3% on TryHackMe
+- 🏆 Top 2% on TryHackMe
 - ⚔️ Red team operations & exploitation
 - 🏢 Active Directory & Windows exploitation
 - 🌐 Network security & privilege escalation
