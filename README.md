@@ -13,8 +13,6 @@
 
 ## TryHackMe Profile
 
-![TryHackMe Badge](./assets/tryhackme-badge.png)
-
 [View my TryHackMe profile](https://tryhackme.com/p/RootlessGhost)
 
  
