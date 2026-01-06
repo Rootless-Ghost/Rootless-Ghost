@@ -21,7 +21,7 @@
 
 [![PJPT](https://img.shields.io/badge/PJPT-In%20Progress-purple?style=for-the-badge)](https://tcm-sec.com/)
 
-[![SAL1](https://img.shields.io/badge/PT1-In%20Progress-blue?style=for-the-badge)](https://tryhackme.com/)
+[![SAL1](https://img.shields.io/badge/SAL1-In%20Progress-blue?style=for-the-badge)](https://tryhackme.com/)
 
 
 
