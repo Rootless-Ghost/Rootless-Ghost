@@ -11,7 +11,7 @@
 
 
 ## 
-[Click to view my THM profile](https://tryhackme.com/p/RG.Null)
+[Check my THM profile](https://tryhackme.com/p/RG.Null)
 
 ![TryHackMe Badge](./assets/tryhackme-badge.png)
 
