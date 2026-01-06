@@ -95,8 +95,8 @@
 ![YARA](https://img.shields.io/badge/YARA-blueviolet?style=flat)
 
 **Hardware**
-[![Flipper Zero](https://img.shields.io/badge/Flipper_Zero-FF6600?style=for-the-badge)]
-[![Pwnagotchi](https://img.shields.io/badge/Pwnagotchi-000000?style=for-the-badge)]
+![Flipper Zero](https://img.shields.io/badge/Flipper_Zero-FF6600?style=for-the-badge)
+![Pwnagotchi](https://img.shields.io/badge/Pwnagotchi-000000?style=for-the-badge)
 
 
 
