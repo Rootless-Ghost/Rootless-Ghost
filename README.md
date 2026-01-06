@@ -64,6 +64,7 @@
 - Active Directory lab (attack & defense)
 - Web vulnerability testing environment
 - WiFi penetration testing lab
+- Flipper Zero / Pwnagotchi 
 - 🚧 SIEM/Detection lab (in progress)
 
 
