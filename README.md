@@ -33,10 +33,18 @@
 
 
 ## 🎯 What I Do
-- 🔐 Penetration Testing & Security Research
+
+**Red Team**
+- 🔓 Penetration Testing & Security Research
 - ⚔️ Red team operations & exploitation
 - 🏢 Active Directory & Windows exploitation
 - 🌐 Network security & privilege escalation
+
+**Blue Team**
+- 🛡️ Threat detection & incident response
+- 📊 SIEM analysis & log correlation
+- 🔍 Threat hunting & malware analysis
+- 🚨 Security monitoring & alerting
 
 <!--## 🏆 Certifications & Achievements  ← NEW SECTION HERE
 [Certification section]
@@ -78,7 +86,19 @@
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
 
+## 🔧 Security Tools
 
+**Offensive**
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Bloodhound](https://img.shields.io/badge/Bloodhound-red?style=flat)
+![Hashcat](https://img.shields.io/badge/Hashcat-black?style=flat)
+![Nmap](https://img.shields.io/badge/Nmap-blue?style=flat)
+
+**Defensive**
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Velociraptor](https://img.shields.io/badge/Velociraptor-purple?style=flat)
+![YARA](https://img.shields.io/badge/YARA-blueviolet?style=flat)
 
 
 
