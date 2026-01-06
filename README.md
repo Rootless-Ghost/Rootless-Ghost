@@ -14,7 +14,7 @@
 [Click to view my THM profile](https://tryhackme.com/p/RG.Null)
 
 ![TryHackMe Badge](./assets/tryhackme-badge.png)
-
+![TryHackMe Rank](https://img.shields.io/badge/TryHackMe-Top%202%25-brightgreen?style=for-the-badge&logo=tryhackme)
 
 
 [![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/) [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) 
