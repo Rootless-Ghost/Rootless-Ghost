@@ -28,7 +28,7 @@ jobs:
       continue-on-error: true
       with:
         image_path: './assets/tryhackme-badge.png'
-        username: 'RootlessGhost'
+        username: 'RG.Null'
         user_id: '2818278'
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
