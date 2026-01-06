@@ -86,7 +86,6 @@
 [![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)](https://portswigger.net/burp) 
 [![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=white)](https://hashcat.net/hashcat/) 
 [![BloodHound](https://img.shields.io/badge/BloodHound-8B0000?style=for-the-badge&logo=neo4j&logoColor=white)](https://bloodhound.specterops.io/get-started/quickstart/community-edition-quickstart)
-![Hashcat](https://img.shields.io/badge/Hashcat-black?style=flat)
 [![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
 
 **Defensive**
