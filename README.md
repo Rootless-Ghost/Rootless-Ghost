@@ -78,24 +78,17 @@
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 
 
-## 🛡 Security Tools
-
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)](https://portswigger.net/burp) 
-[![BloodHound](https://img.shields.io/badge/BloodHound-8B0000?style=for-the-badge&logo=neo4j&logoColor=white)](https://bloodhound.specterops.io/get-started/quickstart/community-edition-quickstart)
-[![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=white)](https://hashcat.net/hashcat/) 
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-[![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
-
 ## 🔧 Security Tools
 
 **Offensive**
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-![Bloodhound](https://img.shields.io/badge/Bloodhound-red?style=flat)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)](https://portswigger.net/burp) 
+[![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=white)](https://hashcat.net/hashcat/) 
+[![BloodHound](https://img.shields.io/badge/BloodHound-8B0000?style=for-the-badge&logo=neo4j&logoColor=white)](https://bloodhound.specterops.io/get-started/quickstart/community-edition-quickstart)
 ![Hashcat](https://img.shields.io/badge/Hashcat-black?style=flat)
-![Nmap](https://img.shields.io/badge/Nmap-blue?style=flat)
+[![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
 
 **Defensive**
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![Velociraptor](https://img.shields.io/badge/Velociraptor-purple?style=flat)
 ![YARA](https://img.shields.io/badge/YARA-blueviolet?style=flat)
