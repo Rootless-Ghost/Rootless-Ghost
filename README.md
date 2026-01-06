@@ -91,8 +91,6 @@
 **Defensive**
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Velociraptor](https://img.shields.io/badge/Velociraptor-purple?style=flat)
-![YARA](https://img.shields.io/badge/YARA-blueviolet?style=flat)
 
 **Hardware**
 ![Flipper Zero](https://img.shields.io/badge/Flipper_Zero-FF6600?style=for-the-badge)
