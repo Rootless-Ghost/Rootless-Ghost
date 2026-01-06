@@ -52,20 +52,19 @@
 [Certification section]
 -->
 
-## 💀 Current Focus
-- Active Directory attack paths & exploitation
-- Network pivoting & lateral movement
-- Post-exploitation techniques
-- Privilege escalation methodologies
-- Building comprehensive pentesting documentation
-- Hardware security (Flipper Zero)
+## 🎯 Current Focus
+
+- Expanding into purple team operations
+- Building detection & response capabilities
+- Certification preparation
 
 
-## 🎯 Lab Environments
+## 🔬 Lab Environments
 
-- Active Directory lab
+- Active Directory lab (attack & defense)
 - Web vulnerability testing environment
 - WiFi penetration testing lab
+- 🚧 SIEM/Detection lab (in progress)
 
 
 <!--## 📝 Featured Projects (if you have/make any):
