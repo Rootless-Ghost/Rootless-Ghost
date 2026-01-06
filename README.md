@@ -11,9 +11,11 @@
 
 
 
+![TryHackMe Badge](./assets/tryhackme-badge.png)
+
+[View my TryHackMe profile](https://tryhackme.com/p/RG.Null)
 
 
-[THM profile](https://tryhackme.com/p/RG.Null)
 
  
 <img src="https://tryhackme-badges.s3.amazonaws.com/RootlessGhost.png" alt="Your Image Badge" />
