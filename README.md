@@ -13,12 +13,8 @@
 
 ![TryHackMe Badge](./assets/tryhackme-badge.png)
 
-[View my TryHackMe profile](https://tryhackme.com/p/RG.Null)
+[Click to view my THM profile](https://tryhackme.com/p/RG.Null)
 
-
-
- 
-<img src="https://tryhackme-badges.s3.amazonaws.com/RootlessGhost.png" alt="Your Image Badge" />
 
 
 [![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/) [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) 
