@@ -17,11 +17,11 @@
 
 ![TryHackMe Rank](https://img.shields.io/badge/TryHackMe-Top%202%25-brightgreen?style=for-the-badge&logo=tryhackme)
 
-![Purple Team](https://img.shields.io/badge/Purple%20Team-Security-purple?style=for-the-badge)
 
 
 
-[![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/) [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) 
+
+[![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/) [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) ![Purple Team](https://img.shields.io/badge/Purple%20Team-Security-purple?style=for-the-badge)
 
 ## Certs
 [![PJPT](https://img.shields.io/badge/PJPT-In%20Progress-purple?style=for-the-badge)](https://tcm-sec.com/) [![SAL1](https://img.shields.io/badge/SAL1-In%20Progress-blue?style=for-the-badge)](https://tryhackme.com/)
