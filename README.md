@@ -17,7 +17,7 @@
 
 ![TryHackMe Rank](https://img.shields.io/badge/TryHackMe-Top%202%25-brightgreen?style=for-the-badge&logo=tryhackme)
 
-
+![Purple Team](https://img.shields.io/badge/Purple%20Team-Security-purple?style=for-the-badge)
 
 
 
