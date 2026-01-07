@@ -15,7 +15,6 @@
 ![TryHackMe Rank](https://img.shields.io/badge/TryHackMe-Top%202%25-brightgreen?style=for-the-badge&logo=tryhackme)
 
 <a href="https://tryhackme.com/p/RG.Null"><img src="https://tryhackme-badges.s3.amazonaws.com/RG.Null.png" alt="TryHackMe Badge" /></a>
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/RG.Null.png)](https://tryhackme.com/p/RG.Null)
 
 
 
