@@ -11,12 +11,10 @@
 
 
 ## 
-[THM profile link](https://tryhackme.com/p/RG.Null)
-
 
 ![TryHackMe Rank](https://img.shields.io/badge/TryHackMe-Top%202%25-brightgreen?style=for-the-badge&logo=tryhackme)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/RG.Null.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/RG.Null.png" alt="Your Image Badge" /> [THM profile link](https://tryhackme.com/p/RG.Null)
 
 
 
