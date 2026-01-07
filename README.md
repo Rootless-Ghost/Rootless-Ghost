@@ -13,13 +13,11 @@
 ## 
 [THM profile link](https://tryhackme.com/p/RG.Null)
 
-![TryHackMe Badge](./assets/tryhackme-badge.png)
 
 ![TryHackMe Rank](https://img.shields.io/badge/TryHackMe-Top%202%25-brightgreen?style=for-the-badge&logo=tryhackme)
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/RG.Null.png)
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/RG.Null.png" alt="Your Image Badge" />
+
 
 
 [![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/) [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) 
