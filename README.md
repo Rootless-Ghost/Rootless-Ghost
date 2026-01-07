@@ -17,7 +17,7 @@
 
 ![TryHackMe Rank](https://img.shields.io/badge/TryHackMe-Top%202%25-brightgreen?style=for-the-badge&logo=tryhackme)
 
-
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/RootlessGhost.png)
 
 
 
