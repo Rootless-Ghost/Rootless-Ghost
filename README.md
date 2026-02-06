@@ -15,7 +15,6 @@
 ![TryHackMe Rank](https://img.shields.io/badge/TryHackMe-Top%202%25-brightgreen?style=for-the-badge&logo=tryhackme)
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/RG.Null.png?v=3)](https://tryhackme.com/p/RG.Null)
-<img src="https://tryhackme-badges.s3.amazonaws.com/RG.Null.png" alt="Your Image Badge" />
 
 
 [![TCM Security](https://img.shields.io/badge/TCM_Security-Student-9D1AF7?style=for-the-badge)](https://tcm-sec.com/)
