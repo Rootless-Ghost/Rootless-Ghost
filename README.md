@@ -66,7 +66,7 @@ Grind in Silence
 - Web vulnerability testing environment
 - WiFi penetration testing lab
 - Flipper Zero / Pwnagotchi 
-- 🚧 SIEM/Detection lab (in progress)
+- SIEM/Detection lab 
 
 
 <!--## 📝 Featured Projects (if you have/make any):
