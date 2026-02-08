@@ -1,13 +1,15 @@
 # Rootless.Ghost/RG.Null
 
 
-<h1 align="left"></h1>
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=200&size=16&pause=1000&color=9D1AF7&center=true&multiline=true&width=435&lines=Hello+this+is+my+Github+profile,;The+quieter+you+become,+the+more+you+can+hear.+)](https://git.io/typing-svg)
 
 
 
 **Junior Pentester | Navy Veteran 🎖️ | Purple Team & SOC Focus**
+
+ </div>
 
  
 ###
