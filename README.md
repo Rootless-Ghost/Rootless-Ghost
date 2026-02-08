@@ -59,9 +59,43 @@
 - 🔍 Threat hunting & malware analysis
 - 🚨 Security monitoring & alerting
 
+---
+## 🚀 Featured Projects
+
+### Detection Engineering
+**[YaraForge](https://github.com/Rootless-Ghost/YaraForge)** - YARA Rule Generator & Testing Platform  
+Build, manage, test, and visualize YARA detection rules with MITRE ATT&CK mapping and a detection dashboard.  
+`Python` `Flask` `YARA` `MITRE ATT&CK` `Detection Engineering`
+
+**[SnortForge](https://github.com/Rootless-Ghost/SnortForge)** - Snort IDS/IPS Rule Generator  
+Flask web app with 12 detection templates, rule validation, and .rules file import/export capabilities.  
+`Python` `Flask` `Snort` `IDS/IPS` `Network Security`
+
+### Blue Team Operations
+**[log-analyzer](https://github.com/Rootless-Ghost/log-analyzer)** - Security Log Analyzer  
+Python-based log analysis tool designed for SOC analysts with pattern matching and anomaly detection.  
+`Python` `Flask` `SIEM` `Log Analysis` `SOC`
+
+**[phishing-analyzer](https://github.com/Rootless-Ghost/phishing-analyzer)** - Phishing Email Analyzer  
+Email header and content analysis tool for identifying phishing campaigns and malicious indicators.  
+`Python` `Email Security` `Phishing Detection` `Blue Team`
+
+**[security-awareness-training](https://github.com/Rootless-Ghost/security-awareness-training)** - Security Awareness Platform  
+Enterprise-style platform with phishing simulations, training modules, and progress tracking.  
+`Python` `Flask` `Security Training` `Phishing Simulation`
+
+### Threat Intelligence
+**[Threat-intel-dashboard](https://github.com/Rootless-Ghost/Threat-intel-dashboard)** - Threat Intelligence Dashboard  
+Real-time threat intelligence platform with IOC tracking, feed aggregation, and visual analytics for SOC operations.  
+`HTML` `JavaScript` `Threat Intelligence` `OSINT` `SOC`
+
+---
+
 <!--## 🏆 Certifications & Achievements  ← NEW SECTION HERE
 [Certification section]
 -->
+
+---
 
 ## 🎯 Current Focus
 
@@ -72,6 +106,7 @@
 
 ## 🔬 Lab Environments
 
+**22+ VM Purple Team Lab:**
 - Active Directory lab (attack & defense)
 - Web vulnerability testing environment
 - WiFi penetration testing lab
@@ -79,13 +114,7 @@
 - SIEM/Detection lab 
 
 
-<!--## 📝 Featured Projects (if you have/make any):
 
-##- Pentesting documentation/notes repository
-##- Custom scripts or tools
-##- Write-ups from labs/CTFs
-##- Your Obsidian pentesting vault (public version)
--->
 ## 🖥️ Operating Systems
 
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
