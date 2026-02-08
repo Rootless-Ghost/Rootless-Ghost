@@ -34,13 +34,15 @@
 
 
 
-## Certs
-Grind in Silence 
+## 🎖️ About Me
 
+**Former Navy Hospital Corpsman** transitioning to cybersecurity with real-world combat deployment experience. I bring military discipline, high-pressure decision-making skills, and a systematic approach to threat detection and incident response.
 
-
-
-
+🔐 **Junior Penetration Tester** specializing in purple team operations  
+🏠 Operating a **22-VM home lab** for offensive and defensive security practice  
+📚 Pursuing **PSAA → Security+ → PSAP → PJPT → PNPT** certification path  
+🏆 **TryHackMe Top 2%** - 209 rooms completed, 20,898 points, 37-day streak  
+🎯 Actively seeking **SOC Analyst & Purple Team** roles
 
 
 ## 🎯 What I Do
