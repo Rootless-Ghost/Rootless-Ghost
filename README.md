@@ -91,12 +91,6 @@ Real-time threat intelligence platform with IOC tracking, feed aggregation, and 
 
 ---
 
-<!--## 🏆 Certifications & Achievements  ← NEW SECTION HERE
-[Certification section]
--->
-
----
-
 ## 🎯 Current Focus
 
 - Expanding into purple team operations
