@@ -20,7 +20,7 @@
 
 ## 
 
-![TryHackMe Rank](https://img.shields.io/badge/TryHackMe-Top%101%25-brightgreen?style=for-the-badge&logo=tryhackme)
+![TryHackMe Rank](https://img.shields.io/badge/TryHackMe-Top%102%25-brightgreen?style=for-the-badge&logo=tryhackme)
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/RG.Null.png?v=3)](https://tryhackme.com/p/RG.Null)
 
