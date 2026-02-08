@@ -41,7 +41,7 @@
 🔐 **Junior Penetration Tester** specializing in purple team operations  
 🏠 Operating a **22-VM home lab** for offensive and defensive security practice  
 📚 Pursuing **PSAA → Security+ → PSAP → PJPT → PNPT** certification path  
-🏆 **TryHackMe Top 2%** - 209 rooms completed, 20,898 points, 37-day streak  
+🏆 **TryHackMe Top 1%** - 200+ rooms completed
 🎯 Actively seeking **SOC Analyst & Purple Team** roles
 
 
