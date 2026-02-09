@@ -93,10 +93,20 @@ Real-time threat intelligence platform with IOC tracking, feed aggregation, and 
 
 ## 🎯 Current Focus
 
+- Pursuing certfications 
 - Expanding into purple team operations
 - Building detection & response capabilities
-- Certification preparation
 
+
+## 🎓 Certifications
+
+**In Progress:**
+- 🔹 PSAA (Practical Junior Security Awareness Analyst) - *Actively studying*
+- 🔹 CompTIA Security+ - *Scheduled Q2 2026*
+
+**Certification Roadmap:**
+
+PSAA → Security+ → PSAP → PJPT → PNPT
 
 ## 🔬 Lab Environments
 
