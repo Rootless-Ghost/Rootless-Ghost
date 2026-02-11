@@ -164,7 +164,9 @@ PSAA → Security+ → PSAP → PJPT → PNPT
 ![Syntax Eyes](syntax-eyes.gif)
 
 
-"Breaking to Build. Defending to Endure."
+```diff
+@@ "Breaking to Build. Defending to Endure." @@
+```
 
 ![image_alt](https://github.com/Rootless-Ghost/Epyon-Nebula/blob/main/Peronist%20gundam.gif)
 
