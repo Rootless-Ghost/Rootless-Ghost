@@ -47,7 +47,7 @@ Navy Veteran 🎖️ | SOC Analyst | Detection Engineering | Purple Team Path
 
 ## 🎯 What I Do
 
-**Red Team**
+**Red Team**$\color{#FF0000}{**Red Team**}$
 - 🔓 Penetration Testing & Security Research
 - ⚔️ Red team operations & exploitation
 - 🏢 Active Directory & Windows exploitation
