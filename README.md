@@ -89,9 +89,9 @@ Enterprise-style platform with phishing simulations, training modules, and progr
 Real-time threat intelligence platform with IOC tracking, feed aggregation, and visual analytics for SOC operations.  
 `HTML` `JavaScript` `Threat Intelligence` `OSINT` `SOC`
 
-**Incident Response**
-[SIREN](https://github.com/Rootless-Ghost/SIREN) - Security Incident Response Engine & Notation
-Professional incident report generator following NIST 800-61 framework with severity scoring, IOC tracking, timeline management, and Markdown/JSON export.
+### Incident Response
+**[SIREN](https://github.com/Rootless-Ghost/SIREN)** - Security Incident Response Engine & Notation  
+Professional incident report generator following NIST 800-61 framework with severity scoring, IOC tracking, timeline management, and Markdown/JSON export.  
 `Python` `Flask` `NIST 800-61` `Incident Response` `SOC`
 
 ---
