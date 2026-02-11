@@ -7,7 +7,7 @@
 
 
 
-Navy Veteran 🎖️ | Purple Team & SOC Focus | Junior Pentester
+Navy Veteran 🎖️ | SOC Analyst | Detection Engineering | Purple Team Path
 
  </div>
 
