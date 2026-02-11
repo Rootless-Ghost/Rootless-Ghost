@@ -97,10 +97,9 @@ Professional incident report generator following NIST 800-61 framework with seve
 ---
 
 ## 🎯 Current Focus
-
-- Pursuing certfications 
-- Expanding into purple team operations
-- Building detection & response capabilities
+* Studying for PSAA & CompTIA Security+ certifications
+* Building incident response & detection engineering tooling
+* Expanding home lab with ELK Stack SIEM deployment
 
 
 ## 🎓 Certifications
