@@ -36,7 +36,7 @@
 
 ## 🎖️ About Me
 
-**Former Navy Hospital Corpsman** transitioning to cybersecurity with real-world combat deployment experience. I bring military discipline, high-pressure decision-making skills, and a systematic approach to threat detection and incident response.
+**Former Navy Hospital Corpsman** transitioning to cybersecurity with real-world combat experience. I bring military discipline, high-pressure decision-making skills, and a systematic approach to threat detection and incident response.
 
 🔐 **Junior Penetration Tester** specializing in purple team operations  
 🏠 Operating a **22+ VM home lab** for offensive and defensive security practice  
