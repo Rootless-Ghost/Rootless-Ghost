@@ -7,7 +7,7 @@
 
 
 
-**Junior Pentester | Navy Veteran 🎖️ | Purple Team & SOC Focus**
+Navy Veteran 🎖️ | Purple Team & SOC Focus | Junior Pentester
 
  </div>
 
