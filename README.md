@@ -38,7 +38,7 @@ Navy Veteran 🎖️ | Purple Team & SOC Focus | Junior Pentester
 
 **Former Navy Hospital Corpsman** transitioning to cybersecurity with real-world combat experience. I bring military discipline, high-pressure decision-making skills, and a systematic approach to threat detection and incident response.
 
-🛡️ Purple Team & SOC Focus — building both offensive and defensive capabilities 
+🛡️ Purple Team & SOC Focus — building both offensive and defensive capabilities -
 🏠 Operating a 22+ VM home lab for attack simulation and detection engineering  
 📚 Pursuing **PSAA → Security+ → PSAP → PJPT → PNPT** certification path  
 🏆 **TryHackMe Top 1%** - 200+ rooms completed
