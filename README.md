@@ -113,13 +113,14 @@ Professional incident report generator following NIST 800-61 framework with seve
 PSAA → Security+ → PSAP → PJPT → PNPT
 
 ## 🔬 Lab Environments
-
 **22+ VM Purple Team Lab:**
-- Active Directory lab (attack & defense)
-- Web vulnerability testing environment
-- WiFi penetration testing lab
-- Flipper Zero / Pwnagotchi 
-- SIEM/Detection lab 
+* Active Directory lab (attack & defense)
+* ELK Stack SIEM deployment & log pipeline
+* Snort IDS/IPS network monitoring
+* Web vulnerability testing environment
+* Malware analysis sandbox
+* WiFi penetration testing lab
+* Flipper Zero / Pwnagotchi
 
 
 
@@ -130,18 +131,24 @@ PSAA → Security+ → PSAP → PJPT → PNPT
 
 ## 🔧 Security Tools
 
-**Offensive**
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)](https://portswigger.net/burp) 
-[![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=white)](https://hashcat.net/hashcat/) 
-[![BloodHound](https://img.shields.io/badge/BloodHound-8B0000?style=for-the-badge&logo=neo4j&logoColor=white)](https://bloodhound.specterops.io/get-started/quickstart/community-edition-quickstart)
-[![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
+**Offensive:**
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge)
+![BloodHound](https://img.shields.io/badge/BloodHound-DD0031?style=for-the-badge)
+![CrackMapExec](https://img.shields.io/badge/CrackMapExec-1A1A1A?style=for-the-badge)
 
-**Defensive**
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+**Defensive:**
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
+![Elastic](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-F5001D?style=for-the-badge)
+![YARA](https://img.shields.io/badge/YARA-009688?style=for-the-badge)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-**Hardware**
-![Flipper Zero](https://img.shields.io/badge/Flipper_Zero-FF6600?style=for-the-badge)
+**Hardware:**
+![Flipper Zero](https://img.shields.io/badge/Flipper_Zero-FF6633?style=for-the-badge)
 ![Pwnagotchi](https://img.shields.io/badge/Pwnagotchi-000000?style=for-the-badge)
 
 
