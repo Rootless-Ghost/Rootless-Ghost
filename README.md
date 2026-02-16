@@ -22,7 +22,7 @@ Navy Veteran 🎖️ | SOC Analyst | Detection Engineering | Purple Team Path
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-red?style=for-the-badge&logo=tryhackme)
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/RG.Nebula.png?v=10)](https://tryhackme.com/p/RG.Nebula)
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/RG.Nebula.png" alt="Your Image Badge" />
 
 
