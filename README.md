@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=200&size=16&pause=1000&color=9D1AF7&center=true&multiline=true&width=600&lines=Trained+for+chaos.+Built+for+defense.;Rootless.+Relentless.+Ready.;From+combat+zones+to+kill+chains.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=200&size=16&pause=1000&color=00D4FF&center=true&multiline=true&width=600&lines=I+break+it+to+understand+it.;I+defend+it+because+I+can.;The+work+speaks+when+I+don't.)](https://git.io/typing-svg)
 
-Navy Veteran 🎖️ | SOC Analyst | Detection Engineering | Purple Team Path
+Navy Veteran | SOC Analyst | Detection Engineering | Purple Team Path
 
  </div>
 
@@ -38,33 +38,33 @@ Navy Veteran 🎖️ | SOC Analyst | Detection Engineering | Purple Team Path
 
 
 
-## 🎖️ About Me
+## About Me
 
 **Former Navy Hospital Corpsman** transitioning to cybersecurity with real-world combat experience. I bring military discipline, high-pressure decision-making skills, and a systematic approach to threat detection and incident response.
 
-🛡️ Purple Team & SOC Focus — building both offensive and defensive capabilities                                                                                                                                
-🏠 Operating a 22+ VM home lab for attack simulation and detection engineering  
-📚 Pursuing **PSAA → Security+ → PSAP → PJPT → PNPT** certification path  
-🏆 **TryHackMe Top 1%** - 250+ rooms completed
-🎯 Actively seeking **SOC Analyst & Purple Team** roles
+Purple Team & SOC Focus — building both offensive and defensive capabilities                                                                                                                                
+Operating a 22+ VM home lab for attack simulation and detection engineering  
+Pursuing **PSAA → Security+ → PSAP → PJPT → PNPT** certification path  
+**TryHackMe Top 1%** - 250+ rooms completed
+Actively seeking **SOC Analyst & Purple Team** roles
 
 
-## 🎯 What I Do
+## What I Do
 
 **Red Team**
-- 🔓 Penetration Testing & Security Research
-- ⚔️ Red team operations & exploitation
-- 🏢 Active Directory & Windows exploitation
-- 🌐 Network security & privilege escalation
+- Penetration Testing & Security Research
+- Red team operations & exploitation
+- Active Directory & Windows exploitation
+- Network security & privilege escalation
 
 **Blue Team**
-- 🛡️ Threat detection & incident response
-- 📊 SIEM analysis & log correlation
-- 🔍 Threat hunting & malware analysis
-- 🚨 Security monitoring & alerting
+- Threat detection & incident response
+- SIEM analysis & log correlation
+- Threat hunting & malware analysis
+- Security monitoring & alerting
 
 ---
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Detection Engineering
 **[YaraForge](https://github.com/Rootless-Ghost/YaraForge)** - YARA Rule Generator & Testing Platform  
@@ -100,13 +100,13 @@ Professional incident report generator following NIST 800-61 framework with seve
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 * Studying for PSAA & CompTIA Security+ certifications
 * Building incident response & detection engineering tooling
 * Expanding home lab with ELK Stack SIEM deployment
 
 
-## 🎓 Certifications
+## Certifications
 
 **In Progress:**
 - 🔹 PSAA (Practical Junior Security Awareness Analyst) - *Actively studying*
@@ -116,7 +116,7 @@ Professional incident report generator following NIST 800-61 framework with seve
 
 PSAA → Security+ → PSAP → PJPT → PNPT
 
-## 🔬 Lab Environments
+## Lab Environments
 **22+ VM Purple Team Lab:**
 * Active Directory lab (attack & defense)
 * ELK Stack SIEM deployment & log pipeline
@@ -128,12 +128,12 @@ PSAA → Security+ → PSAP → PJPT → PNPT
 
 
 
-## 🖥️ Operating Systems
+## Operating Systems
 
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 
 
-## 🔧 Security Tools
+## Security Tools
 
 **Offensive:**
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
