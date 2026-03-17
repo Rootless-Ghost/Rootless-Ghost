@@ -1,4 +1,4 @@
-# Rootless.Ghost/RG.Nebula
+# Rootless-Ghost/RG-Nebula
 
 
 <div align="center">
