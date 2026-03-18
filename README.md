@@ -45,7 +45,7 @@ Navy Veteran | SOC Analyst | Detection Engineering | Purple Team Path
 Purple Team & SOC Focus — building both offensive and defensive capabilities                                                                                                                                
 Operating a 22+ VM home lab for attack simulation and detection engineering  
 Pursuing **PSAA → Security+ → PSAP → PJPT → PNPT** certification path  
-**TryHackMe Top 1%** - 250+ rooms completed
+**TryHackMe Top 1%** - 270+ rooms completed
 Actively seeking **SOC Analyst & Purple Team** roles
 
 
