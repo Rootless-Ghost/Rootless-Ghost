@@ -125,6 +125,7 @@ PSAA → Security+ → PSAP → PJPT → PNPT
 * Malware analysis sandbox
 * WiFi penetration testing lab
 * Flipper Zero / Pwnagotchi
+* Wazuh SIEM with Sysmon integration & MITRE ATT&CK-mapped detections (3 agents across Windows/Linux/Kali)
 
 
 
@@ -145,11 +146,13 @@ PSAA → Security+ → PSAP → PJPT → PNPT
 
 **Defensive:**
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+[![Wazuh](https://img.shields.io/badge/Wazuh-3C82F8?style=for-the-badge&logo=wazuh&logoColor=white)](https://wazuh.com/)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
 ![Elastic](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort-F5001D?style=for-the-badge)
 ![YARA](https://img.shields.io/badge/YARA-009688?style=for-the-badge)
 ![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
 
 **Hardware:**
 ![Flipper Zero](https://img.shields.io/badge/Flipper_Zero-FF6633?style=for-the-badge)
