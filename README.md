@@ -98,6 +98,15 @@ Real-time threat intelligence platform with IOC tracking, feed aggregation, and 
 Professional incident report generator following NIST 800-61 framework with severity scoring, IOC tracking, timeline management, and Markdown/JSON export.  
 `Python` `Flask` `NIST 800-61` `Incident Response` `SOC`
 
+### Wireless Security
+🔍 [Hidden-Rogue-AP-Detector](https://github.com/Rootless-Ghost/Hidden-Rogue-AP-Detector) - Rogue Access Point Detector
+Python-based wireless security tool for detecting unauthorized access points using RSSI signal strength analysis, whitelist management, and active/passive scanning modes.
+`Python` `Scapy` `Wireless Security` `Network Monitoring` `Rogue AP Detection`
+
+📡 [Wi-Fi-Probe-Request-Sniffer](https://github.com/Rootless-Ghost/Wi-Fi-Probe-Request-Sniffer) - Wi-Fi Probe Request Analyzer
+Captures and analyzes wireless probe requests from nearby devices with SSID extraction, MAC vendor identification, and CSV/JSON export for network visibility and device enumeration.
+`Python` `Scapy` `802.11` `Network Security` `Device Enumeration`
+
 ---
 
 ## Current Focus
