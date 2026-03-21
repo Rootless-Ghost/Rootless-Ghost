@@ -134,7 +134,7 @@ PSAA → Security+ → PSAP → PJPT → PNPT
 * Malware analysis sandbox
 * WiFi penetration testing lab
 * Flipper Zero / Pwnagotchi
-* Wazuh SIEM with Sysmon integration & MITRE ATT&CK-mapped detections (3 agents across Windows/Linux/Kali)
+* Wazuh SIEM with Sysmon integration & MITRE ATT&CK-mapped detections (4 agents across Windows/Linux/Kali)
 
 
 
