@@ -72,8 +72,7 @@ Build, manage, test, and visualize YARA detection rules with MITRE ATT&CK mappin
 `Python` `Flask` `YARA` `MITRE ATT&CK` `Detection Engineering`
 
 **[SnortForge](https://github.com/Rootless-Ghost/SnortForge)** - Snort IDS/IPS Rule Generator  
-Flask web app with 12 detection templates, inline help tooltips, PCRE flag checkboxes, HTTP URI content matching, rule validation, and .rules file import/export. Dark-themed UI with amber labels and real-time live preview. v1.1.0.
-
+Flask web app with 12 detection templates, inline help tooltips, PCRE flag checkboxes, HTTP URI content matching, rule validation, and .rules file import/export. Dark-themed UI with amber labels and real-time live preview. v1.1.0. 
 `Python` `Flask` `Snort` `IDS/IPS` `Network Security`
 
 ### Blue Team Operations
