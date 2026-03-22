@@ -111,7 +111,7 @@ Captures and analyzes wireless probe requests from nearby devices with SSID extr
 ## Current Focus
 * Studying for PSAA & CompTIA Security+ certifications
 * Building incident response & detection engineering tooling
-* Expanding home lab with ELK Stack SIEM deployment
+* Expanding home lab with Wazuh SIEM & detection engineering tooling
 
 
 ## Certifications
@@ -122,12 +122,11 @@ Captures and analyzes wireless probe requests from nearby devices with SSID extr
 
 **Certification Roadmap:**
 
-PSAA → Security+ → PSAP → PJPT → PNPT
+PSAA → Security+ → PSAP → PJPT → PAPA → PNPT
 
 ## Lab Environments
 **22+ VM Purple Team Lab:**
 * Active Directory lab (attack & defense)
-* ELK Stack SIEM deployment & log pipeline
 * Snort IDS/IPS network monitoring
 * Web vulnerability testing environment
 * Malware analysis sandbox
