@@ -71,8 +71,7 @@ Actively seeking **SOC Analyst & Purple Team** roles
 Build, manage, test, and visualize YARA detection rules with MITRE ATT&CK mapping and a detection dashboard.  
 `Python` `Flask` `YARA` `MITRE ATT&CK` `Detection Engineering`
 
-**[SnortForge](https://github.com/Rootless-Ghost/SnortForge)** - Snort IDS/IPS Rule Generator  
-Flask web app with 12 detection templates, inline help tooltips, PCRE flag checkboxes, HTTP URI content matching, rule validation, and .rules file import/export. Dark-themed UI with amber labels and real-time live preview. v1.1.0.
+**[SnortForge](https://github.com/Rootless-Ghost/SnortForge)** - SnortForge - Snort IDS/IPS Rule Generator — Flask web app with multi-content chaining, Snort 2/3 syntax toggle, rule performance scoring, 12 detection templates, inline help tooltips, PCRE flag checkboxes, HTTP URI/Header matching, rule validation, and .rules file import/export. Dark-themed UI with real-time live preview. v1.2.0.
 `Python` `Flask` `Snort` `IDS/IPS` `Network Security`
 
 ### Blue Team Operations
