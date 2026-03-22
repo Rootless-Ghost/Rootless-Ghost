@@ -74,6 +74,10 @@ Build, manage, test, and visualize YARA detection rules with MITRE ATT&CK mappin
 **[SnortForge](https://github.com/Rootless-Ghost/SnortForge)** - SnortForge - Snort IDS/IPS Rule Generator — Flask web app with multi-content chaining, Snort 2/3 syntax toggle, rule performance scoring, 12 detection templates, inline help tooltips, PCRE flag checkboxes, HTTP URI/Header matching, rule validation, and .rules file import/export. Dark-themed UI with real-time live preview. v1.2.0.
 `Python` `Flask` `Snort` `IDS/IPS` `Network Security`
 
+**[SigmaForge](https://github.com/Rootless-Ghost/SigmaForge)** - Vendor-Agnostic Sigma Rule Generator
+Generate, validate, and convert Sigma detection rules to Splunk SPL, Elastic KQL, Elastic EQL, and Sentinel KQL with MITRE ATT&CK mapping, 12 pre-built templates, and rule library.
+`Python` `Flask` `Sigma` `SIEM` `Detection Engineering`
+
 ### Blue Team Operations
 **[log-analyzer](https://github.com/Rootless-Ghost/log-analyzer)** - Security Log Analyzer  
 Python-based log analysis tool designed for SOC analysts with pattern matching and anomaly detection.  
