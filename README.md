@@ -28,13 +28,7 @@ Navy Veteran | SOC Analyst | Detection Engineering | Purple Team Path
 
 
 
-
-[![TCM Security](https://img.shields.io/badge/TCM_Security-Student-9D1AF7?style=for-the-badge)](https://tcm-sec.com/)
-
-
-
-
-[![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/) [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) 
+[![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/) [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) [![TCM Security](https://img.shields.io/badge/TCM_Security-Student-9D1AF7?style=for-the-badge)](https://tcm-sec.com/)
 
 
 
