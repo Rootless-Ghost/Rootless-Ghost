@@ -44,8 +44,8 @@ Navy Veteran | SOC Analyst | Detection Engineering | Purple Team Path
 
 Purple Team & SOC Focus — building both offensive and defensive capabilities                                                                                                                                
 Operating a 22+ VM home lab for attack simulation and detection engineering  
-Pursuing **PSAA → Security+ → PSAP → PJPT → PNPT** certification path  
-**TryHackMe Top 1%** - 270+ rooms completed
+Pursuing **PSAA → PSAP → Security+ → CCDL1 → PAPA → PJPT → PNPT** certification path  
+**TryHackMe Top 1%** - 270+ rooms completed (Inactive)
 Actively seeking **SOC Analyst & Purple Team** roles
 
 
@@ -113,7 +113,7 @@ Captures and analyzes wireless probe requests from nearby devices with SSID extr
 ---
 
 ## Current Focus
-* Studying for PSAA & CompTIA Security+ certifications
+* Studying for PSAA & PSAP certifications
 * Building incident response & detection engineering tooling
 * Expanding home lab with Wazuh SIEM & detection engineering tooling
 
@@ -122,7 +122,7 @@ Captures and analyzes wireless probe requests from nearby devices with SSID extr
 
 **In Progress:**
 - 🔹 PSAA (Practical Junior Security Awareness Analyst) - *Actively studying*
-- 🔹 CompTIA Security+ - *Scheduled Q2 2026*
+- 🔹 PSAP (Practical SOC Analyst Professional) - *Scheduled Q3 2026*
 
 **Certification Roadmap:**
 
