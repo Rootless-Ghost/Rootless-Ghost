@@ -74,10 +74,16 @@ Generate, validate, and convert Sigma detection rules to Splunk SPL, Elastic KQL
 
 ### Endpoint Security
 
-
-
+**[EndpointForge](https://github.com/Rootless-Ghost/EndpointForge)** - Cross-Platform Endpoint Security Monitor  
+Lightweight host-based intrusion detection and endpoint triage tool with MITRE ATT&CK mapping. Process execution analysis, file integrity monitoring, network connection mapping, registry modification detection, and persistence mechanism detection for Windows and Linux.  
+`Python` `Flask` `MITRE ATT&CK` `HIDS` `Endpoint Security`
+ 
+**[EndpointTriage](https://github.com/Rootless-Ghost/EndpointTriage)** - Windows Endpoint Forensic Artifact Collector  
+Automated PowerShell-based IR triage script that collects volatile and non-volatile forensic artifacts — running processes with hashes, network connections, registry persistence checks, scheduled tasks, event log extraction (Security, Sysmon, PowerShell, Defender), named pipe enumeration, and suspicious indicator flagging. Outputs a structured triage package with HTML summary report.  
+`PowerShell` `Incident Response` `Forensics` `DFIR` `Endpoint Security`
 
 ### Blue Team Operations
+
 **[log-analyzer](https://github.com/Rootless-Ghost/log-analyzer)** - Security Log Analyzer  
 Python-based log analysis tool designed for SOC analysts with pattern matching and anomaly detection.  
 `Python` `Flask` `SIEM` `Log Analysis` `SOC`
@@ -91,16 +97,19 @@ Enterprise-style platform with phishing simulations, training modules, and progr
 `Python` `Flask` `Security Training` `Phishing Simulation`
 
 ### Threat Intelligence
+
 **[Threat-intel-dashboard](https://github.com/Rootless-Ghost/Threat-intel-dashboard)** - Threat Intelligence Dashboard  
 Real-time threat intelligence platform with IOC tracking, feed aggregation, and visual analytics for SOC operations.  
 `HTML` `JavaScript` `Threat Intelligence` `OSINT` `SOC`
 
 ### Incident Response
+
 **[SIREN](https://github.com/Rootless-Ghost/SIREN)** - Security Incident Response Engine & Notation  
 Professional incident report generator following NIST 800-61 framework with severity scoring, IOC tracking, timeline management, and Markdown/JSON export.  
 `Python` `Flask` `NIST 800-61` `Incident Response` `SOC`
 
 ### Wireless Security
+
 **[Hidden-Rogue-AP-Detector](https://github.com/Rootless-Ghost/Hidden-Rogue-AP-Detector)** - Rogue Access Point Detector
 Python-based wireless security tool for detecting unauthorized access points using RSSI signal strength analysis, whitelist management, and active/passive scanning modes.
 `Python` `Scapy` `Wireless Security` `Network Monitoring` `Rogue AP Detection`
