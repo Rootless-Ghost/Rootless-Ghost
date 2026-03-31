@@ -72,15 +72,10 @@ Build, manage, test, and visualize YARA detection rules with MITRE ATT&CK mappin
 Generate, validate, and convert Sigma detection rules to Splunk SPL, Elastic KQL, Elastic EQL, and Sentinel KQL with MITRE ATT&CK mapping, 12 pre-built templates, and rule library.
 `Python` `Flask` `Sigma` `SIEM` `Detection Engineering`
 
-Endpoint Security
+### Endpoint Security
 
-EndpointForge - Cross-Platform Endpoint Security Monitor
-Lightweight host-based intrusion detection and endpoint triage tool with MITRE ATT&CK mapping. Process execution analysis, file integrity monitoring, network connection mapping, registry modification detection, and persistence mechanism detection for Windows and Linux.
-'Python' 'Flask' 'MITRE' 'ATT&CK' 'HIDS' 'Endpoint Security'
 
-EndpointTriage - Windows Endpoint Forensic Artifact Collector
-Automated PowerShell-based IR triage script that collects volatile and non-volatile forensic artifacts — running processes with hashes, network connections, registry persistence checks, scheduled tasks, event log extraction (Security, Sysmon, PowerShell, Defender), named pipe enumeration, and suspicious indicator flagging. Outputs a structured triage package with HTML summary report.
-PowerShell Incident Response Forensics DFIR Endpoint Security
+
 
 ### Blue Team Operations
 **[log-analyzer](https://github.com/Rootless-Ghost/log-analyzer)** - Security Log Analyzer  
