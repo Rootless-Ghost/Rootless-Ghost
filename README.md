@@ -140,7 +140,7 @@ Captures and analyzes wireless probe requests from nearby devices with SSID extr
 
 **Certification Roadmap:**
 
-PSAA → Security+ → PSAP → PJPT → PAPA → PNPT
+PSAA → PSAP → Sec+ → CCDL1 → PAPA → PJPT + PNPT
 
 ## Lab Environments
 **22+ VM Purple Team Lab:**
