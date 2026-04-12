@@ -60,6 +60,12 @@ Actively seeking **SOC Analyst & Purple Team** roles
 ---
 ## Featured Projects
 
+### Nebula Forge
+All detection engineering and IR tools below are part of 
+**[Nebula Forge](https://github.com/Rootless-Ghost/nebula-forge)** 
+— an open-source SOC platform covering the full workflow: 
+Detect → Investigate → Respond → Report.
+
 ### Detection Engineering
 **[YaraForge](https://github.com/Rootless-Ghost/YaraForge)** - YARA Rule Generator & Testing Platform  
 Build, manage, test, and visualize YARA detection rules with MITRE ATT&CK mapping and a detection dashboard.  
