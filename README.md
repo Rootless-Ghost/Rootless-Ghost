@@ -70,7 +70,6 @@ Nebula Forge includes two automated pipelines:
 - **drift-scan** — scheduled Sigma rule drift analysis across your detection library
 - **purple-loop** — end-to-end purple team cycle: simulate (AtomicLoop) → detect (Wazuh/Splunk) → validate (DriftWatch)
 
-Managed via `start-nebula.ps1` / `stop-nebula.ps1` for full-suite orchestration.
 
 ### Detection Engineering
 **[YaraForge](https://github.com/Rootless-Ghost/YaraForge)** - YARA Rule Generator & Testing Platform  
