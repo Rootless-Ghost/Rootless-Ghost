@@ -64,7 +64,13 @@ Actively seeking **SOC Analyst & Purple Team** roles
 All detection engineering and IR tools below are part of 
 **[Nebula Forge](https://github.com/Rootless-Ghost/nebula-forge)** 
 — an open-source SOC platform covering the full workflow: 
-Detect → Investigate → Respond → Report.
+Detect → Normalize → Hunt → Drift → Cluster → Simulate → Investigate → Respond → Report.
+
+Nebula Forge includes two automated pipelines:
+- **drift-scan** — scheduled Sigma rule drift analysis across your detection library
+- **purple-loop** — end-to-end purple team cycle: simulate (AtomicLoop) → detect (Wazuh/Splunk) → validate (DriftWatch)
+
+Managed via `start-nebula.ps1` / `stop-nebula.ps1` for full-suite orchestration.
 
 ### Detection Engineering
 **[YaraForge](https://github.com/Rootless-Ghost/YaraForge)** - YARA Rule Generator & Testing Platform  
@@ -77,6 +83,28 @@ Build, manage, test, and visualize YARA detection rules with MITRE ATT&CK mappin
 **[SigmaForge](https://github.com/Rootless-Ghost/SigmaForge)** - Vendor-Agnostic Sigma Rule Generator
 Generate, validate, and convert Sigma detection rules to Splunk SPL, Elastic KQL, Elastic EQL, and Sentinel KQL with MITRE ATT&CK mapping, 12 pre-built templates, and rule library.
 `Python` `Flask` `Sigma` `SIEM` `Detection Engineering`
+
+### Nebula Forge Detection Suite v2
+ 
+**[LogNorm](https://github.com/Rootless-Ghost/LogNorm)** - Log Source Normalizer *(port 5006)*  
+Normalizes log sources from disparate inputs into a consistent ECS-lite schema for downstream detection and analysis pipelines.  
+`Python` `Flask` `Log Normalization` `ECS` `SIEM`
+ 
+**[HuntForge](https://github.com/Rootless-Ghost/HuntForge)** - MITRE ATT&CK Hunt Playbook Generator *(port 5007)*  
+Generates structured threat hunting playbooks mapped to MITRE ATT&CK techniques, providing analyst-ready queries and investigation checklists.  
+`Python` `Flask` `MITRE ATT&CK` `Threat Hunting` `Detection Engineering`
+ 
+**[DriftWatch](https://github.com/Rootless-Ghost/DriftWatch)** - Sigma Rule Drift Analyzer *(port 5008)*  
+Analyzes Sigma rule libraries for drift — identifying stale, misconfigured, or coverage-gapped rules over time. Feeds the drift-scan pipeline.  
+`Python` `Flask` `Sigma` `Detection Engineering` `Rule Management`
+ 
+**[ClusterIQ](https://github.com/Rootless-Ghost/ClusterIQ)** - Contextual Alert Clustering Engine *(port 5009)*  
+Groups and contextualizes alerts using behavioral clustering to reduce noise and surface high-fidelity incident signals for SOC triage.  
+`Python` `Flask` `Alert Clustering` `SOC` `Incident Response`
+ 
+**[AtomicLoop](https://github.com/Rootless-Ghost/AtomicLoop)** - Atomic Red Team Test Runner *(port 5011)*  
+Executes Atomic Red Team tests in controlled loops for purple team validation, feeding results into the purple-loop pipeline for detection coverage measurement.  
+`Python` `Flask` `Atomic Red Team` `Purple Team` `MITRE ATT&CK`
 
 ### Endpoint Security
 
@@ -128,8 +156,10 @@ Captures and analyzes wireless probe requests from nearby devices with SSID extr
 
 ## Current Focus
 * Studying for PSAA & PSAP certifications
-* Building incident response & detection engineering tooling
-* Expanding home lab with Wazuh SIEM & detection engineering tooling
+* Nebula Forge Detection Suite v2 — 5 new tools live (LogNorm, HuntForge, DriftWatch, ClusterIQ, AtomicLoop)
+* Building purple team automation pipelines (drift-scan, purple-loop)
+* Expanding Wazuh SIEM detections and Splunk correlation rules
+
 
 
 ## Certifications
@@ -151,6 +181,7 @@ PSAA → PSAP → Sec+ → CCDL1 → PAPA → PJPT + PNPT
 * WiFi penetration testing lab
 * Flipper Zero / Pwnagotchi
 * Wazuh SIEM with Sysmon integration & MITRE ATT&CK-mapped detections (4 agents across Windows/Linux/Kali)
+* Splunk Free on SOC101-Ubuntu for detection and hunt workflows
 
 
 
