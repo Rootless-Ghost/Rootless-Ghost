@@ -68,7 +68,7 @@ Detect → Normalize → Hunt → Drift → Cluster → Simulate → Investigate
 
 Nebula Forge includes two automated pipelines:
 - **drift-scan** — scheduled Sigma rule drift analysis across your detection library
-- **purple-loop** — end-to-end purple team cycle: simulate (AtomicLoop) → detect (Wazuh/Splunk) → validate (DriftWatch)
+- **purple-loop** — end-to-end purple team cycle: simulate (AtomicLoop) → detect (Wazuh/Splunk) → validate (DriftWatch) | *Pipeline validated end-to-end April 2026*
 
 
 ### Detection Engineering
@@ -79,8 +79,8 @@ Build, manage, test, and visualize YARA detection rules with MITRE ATT&CK mappin
 **[SnortForge](https://github.com/Rootless-Ghost/SnortForge)** - SnortForge - Snort IDS/IPS Rule Generator — Flask web app with multi-content chaining, Snort 2/3 syntax toggle, rule performance scoring, 12 detection templates, inline help tooltips, PCRE flag checkboxes, HTTP URI/Header matching, rule validation, and .rules file import/export. Dark-themed UI with real-time live preview. v1.2.0.
 `Python` `Flask` `Snort` `IDS/IPS` `Network Security`
 
-**[SigmaForge](https://github.com/Rootless-Ghost/SigmaForge)** - Vendor-Agnostic Sigma Rule Generator  
-Custom conversion engine (no pySigma dependency) generating Sigma rules to **6 SIEM backends**: Splunk SPL, Elastic KQL, EQL, Sentinel KQL, Wazuh XML, and QRadar AQL — plus Detection-as-Code JSON. MITRE ATT&CK mapping, 12 pre-built templates, rule library, and standalone CLI.  
+**[SigmaForge](https://github.com/Rootless-Ghost/SigmaForge)** — Vendor-Agnostic Sigma Rule Generator
+Custom conversion engine (no pySigma dependency) generating Sigma rules to **6 SIEM backends**: Splunk SPL, Elastic KQL, EQL, Sentinel KQL, Wazuh XML, and QRadar AQL — plus Detection-as-Code JSON. MITRE ATT&CK mapping, 12 pre-built templates, rule library, and standalone CLI.
 `Python` `Flask` `Sigma` `SIEM` `Detection Engineering` `CLI`
 
 ### Nebula Forge Detection Suite v2
@@ -101,8 +101,8 @@ Analyzes Sigma rule libraries for drift — identifying stale, misconfigured, or
 Groups and contextualizes alerts using behavioral clustering to reduce noise and surface high-fidelity incident signals for SOC triage.  
 `Python` `Flask` `Alert Clustering` `SOC` `Incident Response`
  
-**[AtomicLoop](https://github.com/Rootless-Ghost/AtomicLoop)** - Atomic Red Team Test Runner *(port 5011)*  
-Executes Atomic Red Team tests in controlled loops for purple team validation, feeding results into the purple-loop pipeline for detection coverage measurement.  
+**[AtomicLoop](https://github.com/Rootless-Ghost/AtomicLoop)**  — Atomic Red Team Test Runner (port 5011)
+Executes Atomic Red Team tests in controlled loops for purple team validation, feeding results into the purple-loop pipeline for detection coverage measurement. Dedicated purple loop target: Win10x2 (Wazuh agent 005, AtomicLoop-Test).
 `Python` `Flask` `Atomic Red Team` `Purple Team` `MITRE ATT&CK`
 
 ### Endpoint Security
@@ -179,8 +179,8 @@ PSAA → PSAP → Sec+ → CCDL1 → PAPA → PJPT + PNPT
 * Malware analysis sandbox
 * WiFi penetration testing lab
 * Flipper Zero / Pwnagotchi
-* Wazuh SIEM with Sysmon integration & MITRE ATT&CK-mapped detections (4 agents across Windows/Linux/Kali)
-* Splunk Free on SOC101-Ubuntu for detection and hunt workflows
+* Wazuh SIEM with Sysmon integration & MITRE ATT&CK-mapped detections (5 agents across Windows/Linux/Kali)
+* Splunk Free on Ubuntu for detection and hunt workflows
 
 
 
