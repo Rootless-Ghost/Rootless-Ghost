@@ -164,8 +164,8 @@ Captures and analyzes wireless probe requests from nearby devices with SSID extr
 ## Certifications
 
 **In Progress:**
-- 🔹 PSAA (Practical Junior Security Awareness Analyst) - *Exam: April 23, 2026*
-- 🔹 PSAP (Practical SOC Analyst Professional) - *Scheduled Q3 2026*
+- 🔹 PSAA (Practical Junior Security Awareness Analyst) - 2026*
+- 🔹 PSAP (Practical SOC Analyst Professional) - *Scheduled Q4 2026*
 
 **Certification Roadmap:**
 
