@@ -63,7 +63,7 @@ Actively seeking **SOC Analyst & Purple Team** roles
 ### Nebula Forge
 All detection engineering and IR tools below are part of 
 **[Nebula Forge](https://github.com/Rootless-Ghost/nebula-forge)** 
-— an open-source SOC platform covering the full workflow: 
+— an open-source SOC platform of **17 tools** covering the full workflow: 
 Detect → Normalize → Hunt → Drift → Cluster → Simulate → Investigate → Respond → Report.
 
 Nebula Forge includes two automated pipelines:
@@ -79,9 +79,9 @@ Build, manage, test, and visualize YARA detection rules with MITRE ATT&CK mappin
 **[SnortForge](https://github.com/Rootless-Ghost/SnortForge)** - SnortForge - Snort IDS/IPS Rule Generator — Flask web app with multi-content chaining, Snort 2/3 syntax toggle, rule performance scoring, 12 detection templates, inline help tooltips, PCRE flag checkboxes, HTTP URI/Header matching, rule validation, and .rules file import/export. Dark-themed UI with real-time live preview. v1.2.0.
 `Python` `Flask` `Snort` `IDS/IPS` `Network Security`
 
-**[SigmaForge](https://github.com/Rootless-Ghost/SigmaForge)** - Vendor-Agnostic Sigma Rule Generator
-Generate, validate, and convert Sigma detection rules to Splunk SPL, Elastic KQL, Elastic EQL, and Sentinel KQL with MITRE ATT&CK mapping, 12 pre-built templates, and rule library.
-`Python` `Flask` `Sigma` `SIEM` `Detection Engineering`
+**[SigmaForge](https://github.com/Rootless-Ghost/SigmaForge)** - Vendor-Agnostic Sigma Rule Generator  
+Custom conversion engine (no pySigma dependency) generating Sigma rules to **6 SIEM backends**: Splunk SPL, Elastic KQL, EQL, Sentinel KQL, Wazuh XML, and QRadar AQL — plus Detection-as-Code JSON. MITRE ATT&CK mapping, 12 pre-built templates, rule library, and standalone CLI.  
+`Python` `Flask` `Sigma` `SIEM` `Detection Engineering` `CLI`
 
 ### Nebula Forge Detection Suite v2
  
@@ -108,8 +108,8 @@ Executes Atomic Red Team tests in controlled loops for purple team validation, f
 ### Endpoint Security
 
 **[EndpointForge](https://github.com/Rootless-Ghost/EndpointForge)** - Cross-Platform Endpoint Security Monitor  
-Lightweight host-based intrusion detection and endpoint triage tool with MITRE ATT&CK mapping. Process execution analysis, file integrity monitoring, network connection mapping, registry modification detection, and persistence mechanism detection for Windows and Linux.  
-`Python` `Flask` `MITRE ATT&CK` `HIDS` `Endpoint Security`
+Host-based intrusion detection and endpoint triage across 5 modules: process execution, file integrity (SHA-256 FIM), network connections, registry persistence (Windows), and autoruns — all MITRE ATT&CK mapped. Includes **Wazuh export integration**: `POST /api/wazuh/export` writes NDJSON picked up by the Wazuh agent using bundled decoder and rules (IDs 100200–100265) with ATT&CK technique tags — no manual log shipping. Markdown/JSON report generation for IR workflows.  
+`Python` `Flask` `MITRE ATT&CK` `HIDS` `Endpoint Security` `Wazuh`
  
 **[EndpointTriage](https://github.com/Rootless-Ghost/EndpointTriage)** - Windows Endpoint Forensic Artifact Collector  
 Automated PowerShell-based IR triage script that collects volatile and non-volatile forensic artifacts — running processes with hashes, network connections, registry persistence checks, scheduled tasks, event log extraction (Security, Sysmon, PowerShell, Defender), named pipe enumeration, and suspicious indicator flagging. Outputs a structured triage package with HTML summary report.  
@@ -154,9 +154,9 @@ Captures and analyzes wireless probe requests from nearby devices with SSID extr
 ---
 
 ## Current Focus
-* Studying for PSAA & PSAP certifications
-* Nebula Forge Detection Suite v2 — 5 new tools live (LogNorm, HuntForge, DriftWatch, ClusterIQ, AtomicLoop)
-* Building purple team automation pipelines (drift-scan, purple-loop)
+* **PSAA exam April 23, 2026** — PSAP scheduled Q3 2026
+* Nebula Forge Detection Suite v2 — 5 tools live (LogNorm, HuntForge, DriftWatch, ClusterIQ, AtomicLoop)
+* Purple team automation pipelines: drift-scan and purple-loop
 * Expanding Wazuh SIEM detections and Splunk correlation rules
 
 
@@ -164,7 +164,7 @@ Captures and analyzes wireless probe requests from nearby devices with SSID extr
 ## Certifications
 
 **In Progress:**
-- 🔹 PSAA (Practical Junior Security Awareness Analyst) - *Actively studying*
+- 🔹 PSAA (Practical Junior Security Awareness Analyst) - *Exam: April 23, 2026*
 - 🔹 PSAP (Practical SOC Analyst Professional) - *Scheduled Q3 2026*
 
 **Certification Roadmap:**
