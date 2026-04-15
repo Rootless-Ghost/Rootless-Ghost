@@ -157,6 +157,10 @@ Captures and analyzes wireless probe requests from nearby devices with SSID extr
 Python-based exploitation scanner for authorized penetration testing. Detects and validates SMB vulnerabilities (EternalBlue MS17-010, SMBGhost CVE-2020-0796, null session enumeration) and RDP vulnerabilities (BlueKeep CVE-2019-0708) with credential brute forcing, multi-format reporting (JSON/CSV/TXT), and threaded subnet scanning. Designed for Kali Linux.
 `Python` `Penetration Testing` `SMB` `RDP` `Network Security` `Vulnerability Assessment`
 
+**[network-security-toolkit](https://github.com/Rootless-Ghost/network-security-toolkit)** — PathFinder & PathGuard
+Unified red/blue team network security toolkit built on a shared core library (NetworkMapper). PathFinder maps attack paths, lateral movement routes, and exfiltration channels with Shodan integration and MITRE ATT&CK coverage. PathGuard provides defensive choke point analysis, CIS/NIST-mapped hardening recommendations, baseline change detection, and a prioritized remediation roadmap.
+`Python` `Red Team` `Blue Team` `Network Security` `MITRE ATT&CK` `Shodan` `PathFinder` `PathGuard`
+
 ---
 
 ## Current Focus
