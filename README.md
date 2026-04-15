@@ -151,6 +151,12 @@ Python-based wireless security tool for detecting unauthorized access points usi
 Captures and analyzes wireless probe requests from nearby devices with SSID extraction, MAC vendor identification, and CSV/JSON export for network visibility and device enumeration.
 `Python` `Scapy` `802.11` `Network Security` `Device Enumeration`
 
+## Offensive Security Tools
+
+**SMB-RDP-Exploitation-Scanner** — SMB & RDP Vulnerability Scanner
+Python-based exploitation scanner for authorized penetration testing. Detects and validates SMB vulnerabilities (EternalBlue MS17-010, SMBGhost CVE-2020-0796, null session enumeration) and RDP vulnerabilities (BlueKeep CVE-2019-0708) with credential brute forcing, multi-format reporting (JSON/CSV/TXT), and threaded subnet scanning. Designed for Kali Linux.
+`Python` `Penetration Testing` `SMB` `RDP` `Network Security` `Vulnerability Assessment`
+
 ---
 
 ## Current Focus
