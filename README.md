@@ -68,7 +68,7 @@ Detect → Normalize → Hunt → Drift → Cluster → Simulate → Investigate
 
 Nebula Forge includes two automated pipelines:
 - **drift-scan** — scheduled Sigma rule drift analysis across your detection library
-- **purple-loop** — end-to-end purple team cycle: simulate (AtomicLoop) → detect (Wazuh/Splunk) → validate (DriftWatch) | *Pipeline validated end-to-end April 2026*
+- **purple-loop** — end-to-end purple team cycle: discover (VulnForge) → simulate (AtomicLoop) → detect (Wazuh/Splunk) → validate (DriftWatch) → hunt (HuntForge) | *Pipeline validated end-to-end April 2026*
 
 
 ### Detection Engineering
@@ -104,6 +104,14 @@ Groups and contextualizes alerts using behavioral clustering to reduce noise and
 **[AtomicLoop](https://github.com/Rootless-Ghost/AtomicLoop)**  — Atomic Red Team Test Runner (port 5011)
 Executes Atomic Red Team tests in controlled loops for purple team validation, feeding results into the purple-loop pipeline for detection coverage measurement. Dedicated purple loop target: Win10x2 (Wazuh agent 005, AtomicLoop-Test).
 `Python` `Flask` `Atomic Red Team` `Purple Team` `MITRE ATT&CK`
+ 
+**[VulnForge](https://github.com/Rootless-Ghost/VulnForge)** - Vulnerability & Exploit Intelligence Tool *(port 5012)*  
+Aggregates exploit intelligence from ExploitDB, NVD, and Metasploit, maps findings to MITRE ATT&CK techniques, and feeds results into the purple team pipeline — generating hunt playbooks, LogNorm-ready exports, and AtomicLoop simulation triggers from a single search.  
+`Python` `Flask` `MITRE ATT&CK` `Vulnerability Intelligence` `Purple Team`
+ 
+**[WifiForge](https://github.com/Rootless-Ghost/WifiForge)** - Wireless Network Security Analyzer *(port 5013)*  
+Passively scans wireless networks, assesses security posture, detects deauth attacks and rogue configurations, maps findings to MITRE ATT&CK techniques, and exports results to the Nebula Forge LogNorm pipeline.  
+`Python` `Flask` `Scapy` `Wireless Security` `MITRE ATT&CK`
 
 ### Endpoint Security
 
@@ -165,7 +173,7 @@ Unified red/blue team network security toolkit built on a shared core library (N
 
 ## Current Focus
 * **PSAA exam April 23, 2026** — PSAP scheduled Q3 2026
-* Nebula Forge Detection Suite v2 — 5 tools live (LogNorm, HuntForge, DriftWatch, ClusterIQ, AtomicLoop)
+* Nebula Forge Detection Suite v2 — 7 tools live (LogNorm, HuntForge, DriftWatch, ClusterIQ, AtomicLoop, VulnForge, WifiForge)
 * Purple team automation pipelines: drift-scan and purple-loop
 * Expanding Wazuh SIEM detections and Splunk correlation rules
 
