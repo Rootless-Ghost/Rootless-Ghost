@@ -63,7 +63,7 @@ Actively seeking **SOC Analyst & Purple Team** roles
 ### Nebula Forge
 All detection engineering and IR tools below are part of 
 **[Nebula Forge](https://github.com/Rootless-Ghost/nebula-forge)** 
-— an open-source SOC platform of **17 tools** covering the full workflow: 
+— an open-source SOC platform of **19 tools** covering the full workflow: 
 Detect → Normalize → Hunt → Drift → Cluster → Simulate → Investigate → Respond → Report.
 
 Nebula Forge includes two automated pipelines:
