@@ -180,7 +180,7 @@ Unified red/blue team network security toolkit built on a shared core library (N
 ---
 
 ## Current Focus
-* **PSAA exam April 23, 2026** — PSAP scheduled Q3 2026
+* **PSAA exam May 2026** — PSAP 2026
 * Nebula Forge Detection Suite v2 — 7 tools live (LogNorm, HuntForge, DriftWatch, ClusterIQ, AtomicLoop, VulnForge, WifiForge)
 * Purple team automation pipelines: drift-scan and purple-loop
 * Expanding Wazuh SIEM detections and Splunk correlation rules
