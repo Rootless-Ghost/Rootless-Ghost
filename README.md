@@ -83,7 +83,7 @@ Build, manage, test, and visualize YARA detection rules with MITRE ATT&CK mappin
 Custom conversion engine (no pySigma dependency) generating Sigma rules to **6 SIEM backends**: Splunk SPL, Elastic KQL, EQL, Sentinel KQL, Wazuh XML, and QRadar AQL — plus Detection-as-Code JSON. MITRE ATT&CK mapping, 12 pre-built templates, rule library, and standalone CLI.
 `Python` `Flask` `Sigma` `SIEM` `Detection Engineering` `CLI`
 
-**[azure-soc-mini-lab](https://github.com/Rootless-Ghost/azure-soc-mini-lab)** — Azure Cloud Detection Lab
+**[Azure-SOC-mini-lab](https://github.com/Rootless-Ghost/Azure-SOC-mini-lab)** — Azure Cloud Detection Lab
 KQL detections, attack simulations (12 MITRE ATT&CK techniques mapped), and IR documentation for the Azure control plane — identity, compute, and key vault planes. Built on Microsoft Sentinel / Log Analytics with anomaly-based detection, synthetic log samples, and an automated NSG response playbook.
 `Azure` `KQL` `Microsoft Sentinel` `MITRE ATT&CK` `Detection Engineering` `Cloud Security`
 
