@@ -67,8 +67,8 @@ All detection engineering and IR tools below are part of
 Detect → Normalize → Hunt → Drift → Cluster → Simulate → Investigate → Respond → Report.
 
 Nebula Forge includes two automated pipelines:
-- **drift-scan** — scheduled Sigma rule drift analysis across your detection library
-- **purple-loop** — end-to-end purple team cycle: discover (VulnForge) → simulate (AtomicLoop) → detect (Wazuh/Splunk) → validate (DriftWatch) → hunt (HuntForge) | *Pipeline validated end-to-end April 2026*
+- **Drift-scan** — scheduled Sigma rule drift analysis across your detection library
+- **Purple-loop** — end-to-end purple team cycle: discover (VulnForge) → simulate (AtomicLoop) → detect (Wazuh/Splunk) → validate (DriftWatch) → hunt (HuntForge) | *Pipeline validated end-to-end April 2026*
 
 
 ### Detection Engineering
@@ -133,21 +133,21 @@ Automated PowerShell-based IR triage script that collects volatile and non-volat
 
 ### Blue Team Operations
 
-**[log-analyzer](https://github.com/Rootless-Ghost/log-analyzer)** - Security Log Analyzer  
+**[log-analyzer](https://github.com/Rootless-Ghost/log-Analyzer)** - Security Log Analyzer  
 Python-based log analysis tool designed for SOC analysts with pattern matching and anomaly detection.  
 `Python` `Flask` `SIEM` `Log Analysis` `SOC`
 
-**[phishing-analyzer](https://github.com/Rootless-Ghost/phishing-analyzer)** - Phishing Email Analyzer  
+**[phishing-analyzer](https://github.com/Rootless-Ghost/Phishing-Analyzer)** - Phishing Email Analyzer  
 Email header and content analysis tool for identifying phishing campaigns and malicious indicators.  
 `Python` `Email Security` `Phishing Detection` `Blue Team`
 
-**[security-awareness-training](https://github.com/Rootless-Ghost/security-awareness-training)** - Security Awareness Platform  
+**[security-awareness-training](https://github.com/Rootless-Ghost/Security-Awareness-Training)** - Security Awareness Platform  
 Enterprise-style platform with phishing simulations, training modules, and progress tracking.  
 `Python` `Flask` `Security Training` `Phishing Simulation`
 
 ### Threat Intelligence
 
-**[Threat-intel-dashboard](https://github.com/Rootless-Ghost/Threat-intel-dashboard)** - Threat Intelligence Dashboard  
+**[Threat-intel-dashboard](https://github.com/Rootless-Ghost/Threat-Intel-Dashboard)** - Threat Intelligence Dashboard  
 Real-time threat intelligence platform with IOC tracking, feed aggregation, and visual analytics for SOC operations.  
 `HTML` `JavaScript` `Threat Intelligence` `OSINT` `SOC`
 
