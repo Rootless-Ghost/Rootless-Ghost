@@ -35,6 +35,7 @@ Navy Veteran | SOC Analyst | Detection Engineering | Purple Team
 $\color{Goldenrod}\Large{\textsf{About Me}}$
 ---
 <br>
+
 **Former Navy Hospital Corpsman** to cybersecurity with real-world combat experience. I bring military discipline, high-pressure decision-making skills, and a systematic approach to threat detection and incident response.
 
 Purple Team & SOC Focus — building both offensive and defensive capabilities                                                                                                                                
@@ -47,6 +48,7 @@ Actively seeking **SOC Analyst & Purple Team** roles
 $\color{Goldenrod}\Large{\textsf{What I Do}}$
 ---
 <br>
+
 $\color{Red}\normalsize{\textsf{Red Team}}$
 - Penetration Testing & Security Research
 - Red team operations & exploitation
@@ -62,6 +64,7 @@ $\color{LightSkyBlue}\normalsize{\textsf{Blue Team}}$
 $\color{Goldenrod}\Large{\textsf{Featured Projects}}$
 ---
 <br>
+
 $\color{MediumOrchid}\large{\textsf{Nebula Forge Detection Suite v2}}$
 
 All detection engineering and IR tools below are part of 
