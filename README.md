@@ -70,7 +70,7 @@ Nebula Forge includes two automated pipelines:
 - **Purple-loop** — end-to-end purple team cycle: discover (VulnForge) → simulate (AtomicLoop) → detect (Wazuh/Splunk) → validate (DriftWatch) → hunt (HuntForge) | *Pipeline validated end-to-end April 2026*
 
 
-#### $\color{CornflowerBlue}\normalsize{\textsf{Detection Engineering}}$
+### $\color{CornflowerBlue}\normalsize{\textsf{Detection Engineering}}$
 **[YaraForge](https://github.com/Rootless-Ghost/YaraForge)** - YARA Rule Generator & Testing Platform  
 Build, manage, test, and visualize YARA detection rules with MITRE ATT&CK mapping and a detection dashboard.  
 `Python` `Flask` `YARA` `MITRE ATT&CK` `Detection Engineering`
