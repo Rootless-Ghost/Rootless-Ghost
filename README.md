@@ -178,6 +178,7 @@ Python-based exploitation scanner for authorized penetration testing. Detects an
 Unified red/blue team network security toolkit built on a shared core library (NetworkMapper). PathFinder maps attack paths, lateral movement routes, and exfiltration channels with Shodan integration and MITRE ATT&CK coverage. PathGuard provides defensive choke point analysis, CIS/NIST-mapped hardening recommendations, baseline change detection, and a prioritized remediation roadmap.
 `Python` `Red Team` `Blue Team` `Network Security` `MITRE ATT&CK` `Shodan` `PathFinder` `PathGuard`
 
+<br>
 
 $\color{Goldenrod}\Large{\textsf{Current Focus}}$
 ---
