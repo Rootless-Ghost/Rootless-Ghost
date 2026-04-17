@@ -44,6 +44,7 @@ Pursuing **PSAA → PSAP → Security+ → CCDL1 → PAPA → PJPT → PNPT** ce
 **TryHackMe Top 1%** - 270+ rooms completed (Inactive)
 Actively seeking **SOC Analyst & Purple Team** roles
 
+<br>
 
 $\color{Goldenrod}\Large{\textsf{What I Do}}$
 ---
