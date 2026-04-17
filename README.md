@@ -192,16 +192,18 @@ $\color{Goldenrod}\Large{\textsf{Current Focus}}$
 
 $\color{Goldenrod}\Large{\textsf{Certifications}}$
 ---
+
 <br>
 
 **In Progress:**
 - 🔹 PSAA (Practical Junior Security Awareness Analyst) - 2026*
 - 🔹 PSAP (Practical SOC Analyst Professional) - *Scheduled Q4 2026*
+  
 <br>
 
 **Certification Roadmap:**
----
 PSAA → PSAP → Sec+ → CCDL1 → PAPA → PJPT + PNPT
+
 <br>
 
 $\color{Goldenrod}\Large{\textsf{Lab Environments}}$
