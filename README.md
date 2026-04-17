@@ -57,7 +57,6 @@ Actively seeking **SOC Analyst & Purple Team** roles
 - Threat hunting & malware analysis
 - Security monitoring & alerting
 
----
 ## Featured Projects
 
 ### Nebula Forge
@@ -87,7 +86,7 @@ Custom conversion engine (no pySigma dependency) generating Sigma rules to **6 S
 KQL detections, attack simulations (12 MITRE ATT&CK techniques mapped), and IR documentation for the Azure control plane — identity, compute, and key vault planes. Built on Microsoft Sentinel / Log Analytics with anomaly-based detection, synthetic log samples, and an automated NSG response playbook.
 `Azure` `KQL` `Microsoft Sentinel` `MITRE ATT&CK` `Detection Engineering` `Cloud Security`
 
-**[aws-soc-lab](https://github.com/Rootless-Ghost/AWS-SOC-Lab)** — AWS Cloud Detection Lab
+**[AWS-SOC-lab](https://github.com/Rootless-Ghost/AWS-SOC-Lab)** — AWS Cloud Detection Lab
 CloudTrail-based detections in CloudWatch Logs Insights and Athena SQL, attack simulations for IAM privilege escalation, credential exfiltration, S3 enumeration and public exposure, CloudTrail disable, and EC2 post-exploitation via SSM RunCommand — with GuardDuty finding integration, 5 IR reports, and a Lambda auto-response playbook. AWS companion to Azure-SOC-mini-lab.
 `AWS` `CloudTrail` `GuardDuty` `CloudWatch Logs Insights` `Athena` `MITRE ATT&CK` `Detection Engineering` `Cloud Security`
 
@@ -133,21 +132,21 @@ Automated PowerShell-based IR triage script that collects volatile and non-volat
 
 ### Blue Team Operations
 
-**[log-analyzer](https://github.com/Rootless-Ghost/log-Analyzer)** - Security Log Analyzer  
+**[Log-Analyzer](https://github.com/Rootless-Ghost/log-Analyzer)** - Security Log Analyzer  
 Python-based log analysis tool designed for SOC analysts with pattern matching and anomaly detection.  
 `Python` `Flask` `SIEM` `Log Analysis` `SOC`
 
-**[phishing-analyzer](https://github.com/Rootless-Ghost/Phishing-Analyzer)** - Phishing Email Analyzer  
+**[Phishing-Analyzer](https://github.com/Rootless-Ghost/Phishing-Analyzer)** - Phishing Email Analyzer  
 Email header and content analysis tool for identifying phishing campaigns and malicious indicators.  
 `Python` `Email Security` `Phishing Detection` `Blue Team`
 
-**[security-awareness-training](https://github.com/Rootless-Ghost/Security-Awareness-Training)** - Security Awareness Platform  
+**[Security-Awareness-Training](https://github.com/Rootless-Ghost/Security-Awareness-Training)** - Security Awareness Platform  
 Enterprise-style platform with phishing simulations, training modules, and progress tracking.  
 `Python` `Flask` `Security Training` `Phishing Simulation`
 
 ### Threat Intelligence
 
-**[Threat-intel-dashboard](https://github.com/Rootless-Ghost/Threat-Intel-Dashboard)** - Threat Intelligence Dashboard  
+**[Threat-Intel-Dashboard](https://github.com/Rootless-Ghost/Threat-Intel-Dashboard)** - Threat Intelligence Dashboard  
 Real-time threat intelligence platform with IOC tracking, feed aggregation, and visual analytics for SOC operations.  
 `HTML` `JavaScript` `Threat Intelligence` `OSINT` `SOC`
 
