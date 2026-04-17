@@ -177,7 +177,7 @@ Unified red/blue team network security toolkit built on a shared core library (N
 `Python` `Red Team` `Blue Team` `Network Security` `MITRE ATT&CK` `Shodan` `PathFinder` `PathGuard`
 
 
-## Current Focus
+## $\color{MediumOrchid}\Large{\textsf{Current Focus}}$
 * **PSAA exam May 2026** — PSAP 2026
 * Nebula Forge Detection Suite v2 — 7 tools live (LogNorm, HuntForge, DriftWatch, ClusterIQ, AtomicLoop, VulnForge, WifiForge)
 * Purple team automation pipelines: drift-scan and purple-loop
@@ -185,7 +185,7 @@ Unified red/blue team network security toolkit built on a shared core library (N
 
 
 
-## Certifications
+## $\color{MediumOrchid}\Large{\textsf{Certifications}}$
 
 **In Progress:**
 - 🔹 PSAA (Practical Junior Security Awareness Analyst) - 2026*
