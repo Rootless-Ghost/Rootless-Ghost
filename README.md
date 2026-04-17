@@ -57,7 +57,7 @@ Actively seeking **SOC Analyst & Purple Team** roles
 - Threat hunting & malware analysis
 - Security monitoring & alerting
 
-## $\color{MediumOrchid}\Large{\textsf{Featured Projects}}$
+## $\color{LightCyan}\Large{\textsf{Featured Projects}}$
 
 ### $\color{MediumOrchid}\Large{\textsf{Nebula Forge Detection Suite v2}}$
 All detection engineering and IR tools below are part of 
@@ -90,7 +90,7 @@ KQL detections, attack simulations (12 MITRE ATT&CK techniques mapped), and IR d
 CloudTrail-based detections in CloudWatch Logs Insights and Athena SQL, attack simulations for IAM privilege escalation, credential exfiltration, S3 enumeration and public exposure, CloudTrail disable, and EC2 post-exploitation via SSM RunCommand — with GuardDuty finding integration, 5 IR reports, and a Lambda auto-response playbook. AWS companion to Azure-SOC-mini-lab.
 `AWS` `CloudTrail` `GuardDuty` `CloudWatch Logs Insights` `Athena` `MITRE ATT&CK` `Detection Engineering` `Cloud Security`
 
-### Nebula Forge Detection Suite v2
+### $\color{MediumOrchid}\Large{\textsf{Nebula Forge Detection Suite v2}}$
  
 **[LogNorm](https://github.com/Rootless-Ghost/LogNorm)** - Log Source Normalizer *(port 5006)*  
 Normalizes log sources from disparate inputs into a consistent ECS-lite schema for downstream detection and analysis pipelines.  
