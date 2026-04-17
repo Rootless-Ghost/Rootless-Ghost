@@ -130,7 +130,7 @@ Host-based intrusion detection and endpoint triage across 5 modules: process exe
 Automated PowerShell-based IR triage script that collects volatile and non-volatile forensic artifacts — running processes with hashes, network connections, registry persistence checks, scheduled tasks, event log extraction (Security, Sysmon, PowerShell, Defender), named pipe enumeration, and suspicious indicator flagging. Outputs a structured triage package with HTML summary report.  
 `PowerShell` `Incident Response` `Forensics` `DFIR` `Endpoint Security`
 
-### Blue Team Operations
+### $\color{CornflowerBlue}\normalsize{\textsf{Blue Team}}$
 
 **[Log-Analyzer](https://github.com/Rootless-Ghost/log-Analyzer)** - Security Log Analyzer  
 Python-based log analysis tool designed for SOC analysts with pattern matching and anomaly detection.  
