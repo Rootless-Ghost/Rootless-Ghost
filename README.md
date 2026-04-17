@@ -43,7 +43,7 @@ Pursuing **PSAA → PSAP → Security+ → CCDL1 → PAPA → PJPT → PNPT** ce
 Actively seeking **SOC Analyst & Purple Team** roles
 
 
-## $\color{MediumOrchid}\Large{\textsf{What I Do}}$
+## $\color{Goldenrod}\Large{\textsf{What I Do}}$
 
 **Red Team**
 - Penetration Testing & Security Research
@@ -57,7 +57,7 @@ Actively seeking **SOC Analyst & Purple Team** roles
 - Threat hunting & malware analysis
 - Security monitoring & alerting
 
-## $\color{MediumOrchid}\Large{\textsf{Featured Projects}}$
+## $\color{Goldenrod}\Large{\textsf{Featured Projects}}$
 
 ### $\color{MediumOrchid}\Large{\textsf{Nebula Forge Detection Suite v2}}$
 All detection engineering and IR tools below are part of 
