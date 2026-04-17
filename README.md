@@ -218,7 +218,7 @@ $\color{Goldenrod}\Large{\textsf{Operating Systems}}$
 
 
 $\color{Goldenrod}\Large{\textsf{Security Tools}}$
----
+--- <br>
 
 **Offensive:**
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
