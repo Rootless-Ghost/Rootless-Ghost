@@ -235,7 +235,7 @@ $\color{Goldenrod}\Large{\textsf{Security Tools}}$
 ---
 <br>
 
-$\color{red}\normalsize{\textsf{Offensive -}}$
+$\color{red}\normalsize{\textsf{Offensive }}$
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -243,7 +243,7 @@ $\color{red}\normalsize{\textsf{Offensive -}}$
 ![BloodHound](https://img.shields.io/badge/BloodHound-DD0031?style=for-the-badge)
 ![CrackMapExec](https://img.shields.io/badge/CrackMapExec-1A1A1A?style=for-the-badge)
 
-$\color{CornflowerBlue}\normalsize{\textsf{Defensive}}$
+$\color{CornflowerBlue}\normalsize{\textsf{Defensive }}$
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 [![Wazuh](https://img.shields.io/badge/Wazuh-3C82F8?style=for-the-badge&logo=wazuh&logoColor=white)](https://wazuh.com/)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
@@ -253,7 +253,7 @@ $\color{CornflowerBlue}\normalsize{\textsf{Defensive}}$
 ![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 
-$\color{CornflowerBlue}\normalsize{\textsf{Hardware}}$
+$\color{CornflowerBlue}\normalsize{\textsf{Hardware }}$
 ![Flipper Zero](https://img.shields.io/badge/Flipper_Zero-FF6633?style=for-the-badge)
 ![Pwnagotchi](https://img.shields.io/badge/Pwnagotchi-000000?style=for-the-badge)
 
