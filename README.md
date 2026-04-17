@@ -21,14 +21,9 @@ Navy Veteran | SOC Analyst | Detection Engineering | Purple Team
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/RG.Nebula.png?v=10)](https://tryhackme.com/p/RG.Nebula)
 
-
-<br>
-
-
-
 [![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/) [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) [![TCM Security](https://img.shields.io/badge/TCM_Security-Student-9D1AF7?style=for-the-badge)](https://tcm-sec.com/)
 
-
+<br>
 
 $\color{Goldenrod}\Large{\textsf{About Me}}$
 ---
