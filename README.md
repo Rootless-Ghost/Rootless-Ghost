@@ -120,7 +120,7 @@ Aggregates exploit intelligence from ExploitDB, NVD, and Metasploit, maps findin
 Passively scans wireless networks, assesses security posture, detects deauth attacks and rogue configurations, maps findings to MITRE ATT&CK techniques, and exports results to the Nebula Forge LogNorm pipeline.  
 `Python` `Flask` `Scapy` `Wireless Security` `MITRE ATT&CK`
 
-### Endpoint Security
+### $\color{CornflowerBlue}\normalsize{\textsf{Endpoint Security}}$
 
 **[EndpointForge](https://github.com/Rootless-Ghost/EndpointForge)** - Cross-Platform Endpoint Security Monitor  
 Host-based intrusion detection and endpoint triage across 5 modules: process execution, file integrity (SHA-256 FIM), network connections, registry persistence (Windows), and autoruns — all MITRE ATT&CK mapped. Includes **Wazuh export integration**: `POST /api/wazuh/export` writes NDJSON picked up by the Wazuh agent using bundled decoder and rules (IDs 100200–100265) with ATT&CK technique tags — no manual log shipping. Markdown/JSON report generation for IR workflows.  
@@ -144,19 +144,19 @@ Email header and content analysis tool for identifying phishing campaigns and ma
 Enterprise-style platform with phishing simulations, training modules, and progress tracking.  
 `Python` `Flask` `Security Training` `Phishing Simulation`
 
-### Threat Intelligence
+### $\color{CornflowerBlue}\normalsize{\textsf{Threat Intelligence}}$
 
 **[Threat-Intel-Dashboard](https://github.com/Rootless-Ghost/Threat-Intel-Dashboard)** - Threat Intelligence Dashboard  
 Real-time threat intelligence platform with IOC tracking, feed aggregation, and visual analytics for SOC operations.  
 `HTML` `JavaScript` `Threat Intelligence` `OSINT` `SOC`
 
-### Incident Response
+### $\color{CornflowerBlue}\normalsize{\textsf{Incident Response}}$
 
 **[SIREN](https://github.com/Rootless-Ghost/SIREN)** - Security Incident Response Engine & Notation  
 Professional incident report generator following NIST 800-61 framework with severity scoring, IOC tracking, timeline management, and Markdown/JSON export.  
 `Python` `Flask` `NIST 800-61` `Incident Response` `SOC`
 
-### Wireless Security
+### $\color{CornflowerBlue}\normalsize{\textsf{Wireless Security}}$
 
 **[Hidden-Rogue-AP-Detector](https://github.com/Rootless-Ghost/Hidden-Rogue-AP-Detector)** - Rogue Access Point Detector
 Python-based wireless security tool for detecting unauthorized access points using RSSI signal strength analysis, whitelist management, and active/passive scanning modes.
@@ -166,7 +166,7 @@ Python-based wireless security tool for detecting unauthorized access points usi
 Captures and analyzes wireless probe requests from nearby devices with SSID extraction, MAC vendor identification, and CSV/JSON export for network visibility and device enumeration.
 `Python` `Scapy` `802.11` `Network Security` `Device Enumeration`
 
-## Offensive Security Tools
+## $\color{CornflowerBlue}\normalsize{\textsf{Offensive Security Tools}}$
 
 **[SMB-RDP-Exploitation-Scanner](https://github.com/Rootless-Ghost/SMB-RDP-Exploitation-Scanner)**  — SMB & RDP Vulnerability Scanner
 Python-based exploitation scanner for authorized penetration testing. Detects and validates SMB vulnerabilities (EternalBlue MS17-010, SMBGhost CVE-2020-0796, null session enumeration) and RDP vulnerabilities (BlueKeep CVE-2019-0708) with credential brute forcing, multi-format reporting (JSON/CSV/TXT), and threaded subnet scanning. Designed for Kali Linux.
