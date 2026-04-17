@@ -70,7 +70,7 @@ Nebula Forge includes two automated pipelines:
 - **Purple-loop** — end-to-end purple team cycle: discover (VulnForge) → simulate (AtomicLoop) → detect (Wazuh/Splunk) → validate (DriftWatch) → hunt (HuntForge) | *Pipeline validated end-to-end April 2026*
 
 
-### $\color{CornflowerBlue}\normalsize{\textsf{Detection Engineering}}$
+### $\color{LightSkyBlue}\normalsize{\textsf{Detection Engineering}}$
 **[YaraForge](https://github.com/Rootless-Ghost/YaraForge)** - YARA Rule Generator & Testing Platform  
 Build, manage, test, and visualize YARA detection rules with MITRE ATT&CK mapping and a detection dashboard.  
 `Python` `Flask` `YARA` `MITRE ATT&CK` `Detection Engineering`
@@ -120,7 +120,7 @@ Aggregates exploit intelligence from ExploitDB, NVD, and Metasploit, maps findin
 Passively scans wireless networks, assesses security posture, detects deauth attacks and rogue configurations, maps findings to MITRE ATT&CK techniques, and exports results to the Nebula Forge LogNorm pipeline.  
 `Python` `Flask` `Scapy` `Wireless Security` `MITRE ATT&CK`
 
-### $\color{CornflowerBlue}\normalsize{\textsf{Endpoint Security}}$
+### $\color{LightSkyBlue}\normalsize{\textsf{Endpoint Security}}$
 
 **[EndpointForge](https://github.com/Rootless-Ghost/EndpointForge)** - Cross-Platform Endpoint Security Monitor  
 Host-based intrusion detection and endpoint triage across 5 modules: process execution, file integrity (SHA-256 FIM), network connections, registry persistence (Windows), and autoruns — all MITRE ATT&CK mapped. Includes **Wazuh export integration**: `POST /api/wazuh/export` writes NDJSON picked up by the Wazuh agent using bundled decoder and rules (IDs 100200–100265) with ATT&CK technique tags — no manual log shipping. Markdown/JSON report generation for IR workflows.  
@@ -130,7 +130,7 @@ Host-based intrusion detection and endpoint triage across 5 modules: process exe
 Automated PowerShell-based IR triage script that collects volatile and non-volatile forensic artifacts — running processes with hashes, network connections, registry persistence checks, scheduled tasks, event log extraction (Security, Sysmon, PowerShell, Defender), named pipe enumeration, and suspicious indicator flagging. Outputs a structured triage package with HTML summary report.  
 `PowerShell` `Incident Response` `Forensics` `DFIR` `Endpoint Security`
 
-## $\color{CornflowerBlue}\normalsize{\textsf{Blue Team}}$
+## $\color{LightSkyBlue}\normalsize{\textsf{Blue Team}}$
 
 **[Log-Analyzer](https://github.com/Rootless-Ghost/log-Analyzer)** - Security Log Analyzer  
 Python-based log analysis tool designed for SOC analysts with pattern matching and anomaly detection.  
@@ -144,19 +144,19 @@ Email header and content analysis tool for identifying phishing campaigns and ma
 Enterprise-style platform with phishing simulations, training modules, and progress tracking.  
 `Python` `Flask` `Security Training` `Phishing Simulation`
 
-### $\color{CornflowerBlue}\normalsize{\textsf{Threat Intelligence}}$
+### $\color{LightSkyBlue}\normalsize{\textsf{Threat Intelligence}}$
 
 **[Threat-Intel-Dashboard](https://github.com/Rootless-Ghost/Threat-Intel-Dashboard)** - Threat Intelligence Dashboard  
 Real-time threat intelligence platform with IOC tracking, feed aggregation, and visual analytics for SOC operations.  
 `HTML` `JavaScript` `Threat Intelligence` `OSINT` `SOC`
 
-### $\color{CornflowerBlue}\normalsize{\textsf{Incident Response}}$
+### $\color{LightSkyBlue}\normalsize{\textsf{Incident Response}}$
 
 **[SIREN](https://github.com/Rootless-Ghost/SIREN)** - Security Incident Response Engine & Notation  
 Professional incident report generator following NIST 800-61 framework with severity scoring, IOC tracking, timeline management, and Markdown/JSON export.  
 `Python` `Flask` `NIST 800-61` `Incident Response` `SOC`
 
-### $\color{CornflowerBlue}\normalsize{\textsf{Wireless Security}}$
+### $\color{LightSkyBlue}\normalsize{\textsf{Wireless Security}}$
 
 **[Hidden-Rogue-AP-Detector](https://github.com/Rootless-Ghost/Hidden-Rogue-AP-Detector)** - Rogue Access Point Detector
 Python-based wireless security tool for detecting unauthorized access points using RSSI signal strength analysis, whitelist management, and active/passive scanning modes.
@@ -166,7 +166,7 @@ Python-based wireless security tool for detecting unauthorized access points usi
 Captures and analyzes wireless probe requests from nearby devices with SSID extraction, MAC vendor identification, and CSV/JSON export for network visibility and device enumeration.
 `Python` `Scapy` `802.11` `Network Security` `Device Enumeration`
 
-## $\color{CornflowerBlue}\normalsize{\textsf{Offensive Security Tools}}$
+## $\color{LightSkyBlue}\normalsize{\textsf{Offensive Security Tools}}$
 
 **[SMB-RDP-Exploitation-Scanner](https://github.com/Rootless-Ghost/SMB-RDP-Exploitation-Scanner)**  — SMB & RDP Vulnerability Scanner
 Python-based exploitation scanner for authorized penetration testing. Detects and validates SMB vulnerabilities (EternalBlue MS17-010, SMBGhost CVE-2020-0796, null session enumeration) and RDP vulnerabilities (BlueKeep CVE-2019-0708) with credential brute forcing, multi-format reporting (JSON/CSV/TXT), and threaded subnet scanning. Designed for Kali Linux.
