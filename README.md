@@ -57,7 +57,7 @@ Actively seeking **SOC Analyst & Purple Team** roles
 - Threat hunting & malware analysis
 - Security monitoring & alerting
 
-## $\color{Goldenrod}\extralarge{\textsf{Featured Projects}}$
+$\color{Goldenrod}\Large{\textsf{Featured Projects}}$
 
 $\color{MediumOrchid}\normalsize{\textsf{Nebula Forge Detection Suite v2}}$
 
