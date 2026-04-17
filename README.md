@@ -58,7 +58,7 @@ Actively seeking **SOC Analyst & Purple Team** roles
 - Security monitoring & alerting
 
 $\color{Goldenrod}\Large{\textsf{Featured Projects}}$
-
+---
 $\color{MediumOrchid}\normalsize{\textsf{Nebula Forge Detection Suite v2}}$
 
 All detection engineering and IR tools below are part of 
