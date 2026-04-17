@@ -59,7 +59,7 @@ Actively seeking **SOC Analyst & Purple Team** roles
 
 $\color{Goldenrod}\Large{\textsf{Featured Projects}}$
 ---
-$\color{MediumOrchid}\normalsize{\textsf{Nebula Forge Detection Suite v2}}$
+$\color{MediumOrchid}\large{\textsf{Nebula Forge Detection Suite v2}}$
 
 All detection engineering and IR tools below are part of 
 **[Nebula Forge](https://github.com/Rootless-Ghost/nebula-forge)** 
