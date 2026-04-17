@@ -45,7 +45,7 @@ Actively seeking **SOC Analyst & Purple Team** roles
 
 ## $\color{Goldenrod}\Large{\textsf{What I Do}}$
 
-**Red Team**
+$\color{Red}\normalsize{\textsf{Red Team}}$
 - Penetration Testing & Security Research
 - Red team operations & exploitation
 - Active Directory & Windows exploitation
