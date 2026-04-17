@@ -195,7 +195,7 @@ Unified red/blue team network security toolkit built on a shared core library (N
 
 PSAA → PSAP → Sec+ → CCDL1 → PAPA → PJPT + PNPT
 
-## Lab Environments
+## $\color{MediumOrchid}\Large{\textsf{Lab Environments}}$
 **22+ VM Purple Team Lab:**
 * Active Directory lab (attack & defense)
 * Snort IDS/IPS network monitoring
