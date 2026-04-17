@@ -11,13 +11,13 @@ Navy Veteran | SOC Analyst | Detection Engineering | Purple Team
  </div>
 
  
-###
+<br><br>
 
 ![Chillin](chillin-S13-c.gif)
 
 
 
-## 
+<br>
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-red?style=for-the-badge&logo=tryhackme)
 
