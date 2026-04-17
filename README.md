@@ -32,7 +32,7 @@ Navy Veteran | SOC Analyst | Detection Engineering | Purple Team
 
 
 
-## About Me
+## $\color{MediumOrchid}\Large{\textsf{About Me}}$
 
 **Former Navy Hospital Corpsman** to cybersecurity with real-world combat experience. I bring military discipline, high-pressure decision-making skills, and a systematic approach to threat detection and incident response.
 
@@ -59,7 +59,7 @@ Actively seeking **SOC Analyst & Purple Team** roles
 
 ## $\color{MediumOrchid}\Large{\textsf{Featured Projects}}$
 
-### Nebula Forge
+## $\color{MediumOrchid}\Large{\textsf{Nebula Forge Detection Suite v2}}$
 All detection engineering and IR tools below are part of 
 **[Nebula Forge](https://github.com/Rootless-Ghost/nebula-forge)** 
 — an open-source SOC platform of **19 tools** covering the full workflow: 
@@ -70,7 +70,7 @@ Nebula Forge includes two automated pipelines:
 - **Purple-loop** — end-to-end purple team cycle: discover (VulnForge) → simulate (AtomicLoop) → detect (Wazuh/Splunk) → validate (DriftWatch) → hunt (HuntForge) | *Pipeline validated end-to-end April 2026*
 
 
-### Detection Engineering
+### $\color{CornflowerBlue}\normalsize{\textsf{Detection Engineering}}$
 **[YaraForge](https://github.com/Rootless-Ghost/YaraForge)** - YARA Rule Generator & Testing Platform  
 Build, manage, test, and visualize YARA detection rules with MITRE ATT&CK mapping and a detection dashboard.  
 `Python` `Flask` `YARA` `MITRE ATT&CK` `Detection Engineering`
