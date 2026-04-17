@@ -181,27 +181,32 @@ Unified red/blue team network security toolkit built on a shared core library (N
 
 $\color{Goldenrod}\Large{\textsf{Current Focus}}$
 ---
+<br>
 
 * **PSAA exam May 2026** — PSAP 2026
 * Nebula Forge Detection Suite v2 — 7 tools live (LogNorm, HuntForge, DriftWatch, ClusterIQ, AtomicLoop, VulnForge, WifiForge)
 * Purple team automation pipelines: drift-scan and purple-loop
 * Expanding Wazuh SIEM detections and Splunk correlation rules
 
-
+<br>
 
 $\color{Goldenrod}\Large{\textsf{Certifications}}$
 ---
+<br>
 
 **In Progress:**
 - 🔹 PSAA (Practical Junior Security Awareness Analyst) - 2026*
 - 🔹 PSAP (Practical SOC Analyst Professional) - *Scheduled Q4 2026*
+<br>
 
 **Certification Roadmap:**
 ---
 PSAA → PSAP → Sec+ → CCDL1 → PAPA → PJPT + PNPT
+<br>
 
 $\color{Goldenrod}\Large{\textsf{Lab Environments}}$
 ---
+<br>
 
 **22+ VM Purple Team Lab:**
 * Active Directory lab (attack & defense)
