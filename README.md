@@ -195,7 +195,7 @@ Unified red/blue team network security toolkit built on a shared core library (N
 
 PSAA → PSAP → Sec+ → CCDL1 → PAPA → PJPT + PNPT
 
-## $\color{MediumOrchid}\Large{\textsf{Lab Environments}}$
+## $\color{Goldenrod}\Large{\textsf{Lab Environments}}$
 **22+ VM Purple Team Lab:**
 * Active Directory lab (attack & defense)
 * Snort IDS/IPS network monitoring
@@ -208,12 +208,12 @@ PSAA → PSAP → Sec+ → CCDL1 → PAPA → PJPT + PNPT
 
 
 
-## Operating Systems
+## $\color{Goldenrod}\Large{\textsf{Operating Systems}}$
 
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 
 
-## Security Tools
+## $\color{Goldenrod}\Large{\textsf{Security Tools}}$
 
 **Offensive:**
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
