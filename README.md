@@ -1,5 +1,5 @@
 # Rootless-Ghost/RG-Nebula
-![Title](header-title.svg)
+![Title](svgfiles/header-title.svg)
 
 <div align="center">
  
