@@ -32,7 +32,7 @@ Navy Veteran | SOC Analyst | Detection Engineering | Purple Team
 
 
 
-## $\color{Goldenrod}\Large{\textsf{About Me}}$
+$\color{Goldenrod}\Large{\textsf{About Me}}$
 
 **Former Navy Hospital Corpsman** to cybersecurity with real-world combat experience. I bring military discipline, high-pressure decision-making skills, and a systematic approach to threat detection and incident response.
 
@@ -43,15 +43,15 @@ Pursuing **PSAA → PSAP → Security+ → CCDL1 → PAPA → PJPT → PNPT** ce
 Actively seeking **SOC Analyst & Purple Team** roles
 
 
-## $\color{Goldenrod}\Large{\textsf{What I Do}}$
+$\color{Goldenrod}\Large{\textsf{What I Do}}$
 
-**$\color{Red}\normalsize{\textsf{Red Team}}$**
+$\color{Red}\normalsize{\textsf{Red Team}}$
 - Penetration Testing & Security Research
 - Red team operations & exploitation
 - Active Directory & Windows exploitation
 - Network security & privilege escalation
 
-**$\color{LightSkyBlue}\normalsize{\textsf{Blue Team}}$**
+$\color{LightSkyBlue}\normalsize{\textsf{Blue Team}}$
 - Threat detection & incident response
 - SIEM analysis & log correlation
 - Threat hunting & malware analysis
