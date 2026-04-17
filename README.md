@@ -10,12 +10,10 @@ Navy Veteran | SOC Analyst | Detection Engineering | Purple Team
 
  </div>
 
- 
-<br><br>
+ ---
+<br>
 
 ![Chillin](chillin-S13-c.gif)
-
-
 
 <br>
 
