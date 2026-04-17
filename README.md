@@ -168,7 +168,7 @@ Python-based wireless security tool for detecting unauthorized access points usi
 Captures and analyzes wireless probe requests from nearby devices with SSID extraction, MAC vendor identification, and CSV/JSON export for network visibility and device enumeration.
 `Python` `Scapy` `802.11` `Network Security` `Device Enumeration`
 
-## $\color{LightSkyBlue}\normalsize{\textsf{Offensive Security Tools}}$
+$\color{green}\normalsize{\textsf{Offensive Security Tools}}$
 
 **[SMB-RDP-Exploitation-Scanner](https://github.com/Rootless-Ghost/SMB-RDP-Exploitation-Scanner)**  — SMB & RDP Vulnerability Scanner
 Python-based exploitation scanner for authorized penetration testing. Detects and validates SMB vulnerabilities (EternalBlue MS17-010, SMBGhost CVE-2020-0796, null session enumeration) and RDP vulnerabilities (BlueKeep CVE-2019-0708) with credential brute forcing, multi-format reporting (JSON/CSV/TXT), and threaded subnet scanning. Designed for Kali Linux.
@@ -180,7 +180,7 @@ Unified red/blue team network security toolkit built on a shared core library (N
 
 
 $\color{Goldenrod}\Large{\textsf{Current Focus}}$
-
+---
 * **PSAA exam May 2026** — PSAP 2026
 * Nebula Forge Detection Suite v2 — 7 tools live (LogNorm, HuntForge, DriftWatch, ClusterIQ, AtomicLoop, VulnForge, WifiForge)
 * Purple team automation pipelines: drift-scan and purple-loop
@@ -189,13 +189,13 @@ $\color{Goldenrod}\Large{\textsf{Current Focus}}$
 
 
 $\color{Goldenrod}\Large{\textsf{Certifications}}$
-
+---
 **In Progress:**
 - 🔹 PSAA (Practical Junior Security Awareness Analyst) - 2026*
 - 🔹 PSAP (Practical SOC Analyst Professional) - *Scheduled Q4 2026*
 
 **Certification Roadmap:**
-
+---
 PSAA → PSAP → Sec+ → CCDL1 → PAPA → PJPT + PNPT
 
 $\color{Goldenrod}\Large{\textsf{Lab Environments}}$
