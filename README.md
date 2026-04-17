@@ -57,9 +57,9 @@ Actively seeking **SOC Analyst & Purple Team** roles
 - Threat hunting & malware analysis
 - Security monitoring & alerting
 
-## $\color{Goldenrod}\ExtraLarge{\textsf{Featured Projects}}$
+## $\color{Goldenrod}\extralarge{\textsf{Featured Projects}}$
 
-$\color{MediumOrchid}\Normalsize{\textsf{Nebula Forge Detection Suite v2}}$
+$\color{MediumOrchid}\normalsize{\textsf{Nebula Forge Detection Suite v2}}$
 
 All detection engineering and IR tools below are part of 
 **[Nebula Forge](https://github.com/Rootless-Ghost/nebula-forge)** 
