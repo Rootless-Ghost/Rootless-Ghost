@@ -43,7 +43,7 @@ Pursuing **PSAA → PSAP → Security+ → CCDL1 → PAPA → PJPT → PNPT** ce
 Actively seeking **SOC Analyst & Purple Team** roles
 
 
-## What I Do
+## $\color{MediumOrchid}\Large{\textsf{What I Do}}$
 
 **Red Team**
 - Penetration Testing & Security Research
