@@ -59,7 +59,7 @@ Actively seeking **SOC Analyst & Purple Team** roles
 
 ## $\color{MediumOrchid}\Large{\textsf{Featured Projects}}$
 
-## $\color{MediumOrchid}\Large{\textsf{Nebula Forge Detection Suite v2}}$
+### $\color{MediumOrchid}\Large{\textsf{Nebula Forge Detection Suite v2}}$
 All detection engineering and IR tools below are part of 
 **[Nebula Forge](https://github.com/Rootless-Ghost/nebula-forge)** 
 — an open-source SOC platform of **19 tools** covering the full workflow: 
