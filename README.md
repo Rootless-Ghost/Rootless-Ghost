@@ -199,7 +199,7 @@ $\color{Goldenrod}\Large{\textsf{Certifications}}$
 PSAA → PSAP → Sec+ → CCDL1 → PAPA → PJPT + PNPT
 
 $\color{Goldenrod}\Large{\textsf{Lab Environments}}$
-
+---
 **22+ VM Purple Team Lab:**
 * Active Directory lab (attack & defense)
 * Snort IDS/IPS network monitoring
@@ -213,7 +213,7 @@ $\color{Goldenrod}\Large{\textsf{Lab Environments}}$
 
 
 $\color{Goldenrod}\Large{\textsf{Operating Systems}}$
-
+---
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 
 
