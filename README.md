@@ -246,9 +246,6 @@ $\color{Goldenrod}\Large{\textsf{Security Tools}}$
 
 
 
-##
-
-
 
 
 ![Syntax Eyes](syntax-eyes.gif)
