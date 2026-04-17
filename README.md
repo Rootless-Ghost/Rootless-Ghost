@@ -61,6 +61,8 @@ $\color{LightSkyBlue}\normalsize{\textsf{Blue Team}}$
 - Threat hunting & malware analysis
 - Security monitoring & alerting
 
+<br>
+
 $\color{Goldenrod}\Large{\textsf{Featured Projects}}$
 ---
 <br>
