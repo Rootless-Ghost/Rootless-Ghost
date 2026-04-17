@@ -51,7 +51,7 @@ Actively seeking **SOC Analyst & Purple Team** roles
 - Active Directory & Windows exploitation
 - Network security & privilege escalation
 
-**$\color{Blue}\normalsize{\textsf{Blue Team}}$**
+**$\color{LightSkyBlue}\normalsize{\textsf{Blue Team}}$**
 - Threat detection & incident response
 - SIEM analysis & log correlation
 - Threat hunting & malware analysis
