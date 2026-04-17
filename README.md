@@ -32,7 +32,7 @@ Navy Veteran | SOC Analyst | Detection Engineering | Purple Team
 
 
 
-## $\color{MediumOrchid}\Large{\textsf{About Me}}$
+## $\color{Goldenrod}\Large{\textsf{About Me}}$
 
 **Former Navy Hospital Corpsman** to cybersecurity with real-world combat experience. I bring military discipline, high-pressure decision-making skills, and a systematic approach to threat detection and incident response.
 
