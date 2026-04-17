@@ -92,7 +92,7 @@ KQL detections, attack simulations (12 MITRE ATT&CK techniques mapped), and IR d
 CloudTrail-based detections in CloudWatch Logs Insights and Athena SQL, attack simulations for IAM privilege escalation, credential exfiltration, S3 enumeration and public exposure, CloudTrail disable, and EC2 post-exploitation via SSM RunCommand — with GuardDuty finding integration, 5 IR reports, and a Lambda auto-response playbook. AWS companion to Azure-SOC-mini-lab.
 `AWS` `CloudTrail` `GuardDuty` `CloudWatch Logs Insights` `Athena` `MITRE ATT&CK` `Detection Engineering` `Cloud Security`
 
-### $\color{MediumOrchid}\Large{\textsf{Nebula Forge Detection Suite v2}}$
+$\color{MediumOrchid}\normalsize{\textsf{Nebula Forge Detection Suite v2}}$
  
 **[LogNorm](https://github.com/Rootless-Ghost/LogNorm)** - Log Source Normalizer *(port 5006)*  
 Normalizes log sources from disparate inputs into a consistent ECS-lite schema for downstream detection and analysis pipelines.  
@@ -122,7 +122,7 @@ Aggregates exploit intelligence from ExploitDB, NVD, and Metasploit, maps findin
 Passively scans wireless networks, assesses security posture, detects deauth attacks and rogue configurations, maps findings to MITRE ATT&CK techniques, and exports results to the Nebula Forge LogNorm pipeline.  
 `Python` `Flask` `Scapy` `Wireless Security` `MITRE ATT&CK`
 
-### $\color{LightSkyBlue}\normalsize{\textsf{Endpoint Security}}$
+$\color{LightSkyBlue}\normalsize{\textsf{Endpoint Security}}$
 
 **[EndpointForge](https://github.com/Rootless-Ghost/EndpointForge)** - Cross-Platform Endpoint Security Monitor  
 Host-based intrusion detection and endpoint triage across 5 modules: process execution, file integrity (SHA-256 FIM), network connections, registry persistence (Windows), and autoruns — all MITRE ATT&CK mapped. Includes **Wazuh export integration**: `POST /api/wazuh/export` writes NDJSON picked up by the Wazuh agent using bundled decoder and rules (IDs 100200–100265) with ATT&CK technique tags — no manual log shipping. Markdown/JSON report generation for IR workflows.  
@@ -132,7 +132,7 @@ Host-based intrusion detection and endpoint triage across 5 modules: process exe
 Automated PowerShell-based IR triage script that collects volatile and non-volatile forensic artifacts — running processes with hashes, network connections, registry persistence checks, scheduled tasks, event log extraction (Security, Sysmon, PowerShell, Defender), named pipe enumeration, and suspicious indicator flagging. Outputs a structured triage package with HTML summary report.  
 `PowerShell` `Incident Response` `Forensics` `DFIR` `Endpoint Security`
 
-## $\color{LightSkyBlue}\normalsize{\textsf{Blue Team}}$
+$\color{LightSkyBlue}\normalsize{\textsf{Blue Team}}$
 
 **[Log-Analyzer](https://github.com/Rootless-Ghost/log-Analyzer)** - Security Log Analyzer  
 Python-based log analysis tool designed for SOC analysts with pattern matching and anomaly detection.  
@@ -146,19 +146,19 @@ Email header and content analysis tool for identifying phishing campaigns and ma
 Enterprise-style platform with phishing simulations, training modules, and progress tracking.  
 `Python` `Flask` `Security Training` `Phishing Simulation`
 
-### $\color{LightSkyBlue}\normalsize{\textsf{Threat Intelligence}}$
+$\color{LightSkyBlue}\normalsize{\textsf{Threat Intelligence}}$
 
 **[Threat-Intel-Dashboard](https://github.com/Rootless-Ghost/Threat-Intel-Dashboard)** - Threat Intelligence Dashboard  
 Real-time threat intelligence platform with IOC tracking, feed aggregation, and visual analytics for SOC operations.  
 `HTML` `JavaScript` `Threat Intelligence` `OSINT` `SOC`
 
-### $\color{LightSkyBlue}\normalsize{\textsf{Incident Response}}$
+$\color{LightSkyBlue}\normalsize{\textsf{Incident Response}}$
 
 **[SIREN](https://github.com/Rootless-Ghost/SIREN)** - Security Incident Response Engine & Notation  
 Professional incident report generator following NIST 800-61 framework with severity scoring, IOC tracking, timeline management, and Markdown/JSON export.  
 `Python` `Flask` `NIST 800-61` `Incident Response` `SOC`
 
-### $\color{LightSkyBlue}\normalsize{\textsf{Wireless Security}}$
+$\color{LightSkyBlue}\normalsize{\textsf{Wireless Security}}$
 
 **[Hidden-Rogue-AP-Detector](https://github.com/Rootless-Ghost/Hidden-Rogue-AP-Detector)** - Rogue Access Point Detector
 Python-based wireless security tool for detecting unauthorized access points using RSSI signal strength analysis, whitelist management, and active/passive scanning modes.
@@ -179,7 +179,8 @@ Unified red/blue team network security toolkit built on a shared core library (N
 `Python` `Red Team` `Blue Team` `Network Security` `MITRE ATT&CK` `Shodan` `PathFinder` `PathGuard`
 
 
-## $\color{Goldenrod}\Large{\textsf{Current Focus}}$
+$\color{Goldenrod}\Large{\textsf{Current Focus}}$
+
 * **PSAA exam May 2026** — PSAP 2026
 * Nebula Forge Detection Suite v2 — 7 tools live (LogNorm, HuntForge, DriftWatch, ClusterIQ, AtomicLoop, VulnForge, WifiForge)
 * Purple team automation pipelines: drift-scan and purple-loop
@@ -187,7 +188,7 @@ Unified red/blue team network security toolkit built on a shared core library (N
 
 
 
-## $\color{Goldenrod}\Large{\textsf{Certifications}}$
+$\color{Goldenrod}\Large{\textsf{Certifications}}$
 
 **In Progress:**
 - 🔹 PSAA (Practical Junior Security Awareness Analyst) - 2026*
@@ -197,7 +198,8 @@ Unified red/blue team network security toolkit built on a shared core library (N
 
 PSAA → PSAP → Sec+ → CCDL1 → PAPA → PJPT + PNPT
 
-## $\color{Goldenrod}\Large{\textsf{Lab Environments}}$
+$\color{Goldenrod}\Large{\textsf{Lab Environments}}$
+
 **22+ VM Purple Team Lab:**
 * Active Directory lab (attack & defense)
 * Snort IDS/IPS network monitoring
@@ -210,12 +212,12 @@ PSAA → PSAP → Sec+ → CCDL1 → PAPA → PJPT + PNPT
 
 
 
-## $\color{Goldenrod}\Large{\textsf{Operating Systems}}$
+$\color{Goldenrod}\Large{\textsf{Operating Systems}}$
 
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 
 
-## $\color{Goldenrod}\Large{\textsf{Security Tools}}$
+$\color{Goldenrod}\Large{\textsf{Security Tools}}$
 
 **Offensive:**
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
