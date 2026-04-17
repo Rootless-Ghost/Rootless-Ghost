@@ -218,7 +218,7 @@ $\color{Goldenrod}\Large{\textsf{Lab Environments}}$
 * Wazuh SIEM with Sysmon integration & MITRE ATT&CK-mapped detections (5 agents across Windows/Linux/Kali)
 * Splunk Free on Ubuntu for detection and hunt workflows
 
-
+<br>
 
 $\color{Goldenrod}\Large{\textsf{Operating Systems}}$
 ---
