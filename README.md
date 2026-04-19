@@ -64,10 +64,7 @@ $\color{Goldenrod}\Large{\textsf{Featured Projects}}$
 
 $\color{MediumOrchid}\large{\textsf{Nebula Forge Detection Suite v2}}$
 
-All detection engineering and IR tools below are part of 
-**[Nebula Forge](https://github.com/Rootless-Ghost/nebula-forge)** 
-— an open-source SOC platform of **19 tools** covering the full workflow: 
-Detect → Normalize → Hunt → Drift → Cluster → Simulate → Investigate → Respond → Report.
+All 19 tools are part of Nebula Forge — an open-source SOC platform covering the full workflow: Detect → Normalize → Hunt → Drift → Cluster → Simulate → Investigate → Respond → Report. The Detection Suite v2 (9 tools) runs as a fully containerized stack — a single `docker compose up -d` starts all services with a shared Postgres backend. The dashboard (port 5010) provides live status, one-click launches, and pipeline monitoring across the entire suite.
 
 Nebula Forge includes two automated pipelines:
 - **Drift-scan** — scheduled Sigma rule drift analysis across your detection library
@@ -188,10 +185,10 @@ $\color{Goldenrod}\Large{\textsf{Current Focus}}$
 ---
 <br>
 
-* **PSAA exam May 2026** — PSAP 2026
-* Nebula Forge Detection Suite v2 — 7 tools live (LogNorm, HuntForge, DriftWatch, ClusterIQ, AtomicLoop, VulnForge, WifiForge)
-* Purple team automation pipelines: drift-scan and purple-loop
-* Expanding Wazuh SIEM detections and Splunk correlation rules
+- Nebula Forge Detection Suite v2 — 9 tools containerized and live (LogNorm, HuntForge, DriftWatch, ClusterIQ, AtomicLoop, VulnForge, WifiForge + dashboard + Postgres) — single `docker compose up -d`
+- Purple team automation pipelines: drift-scan and purple-loop validated end-to-end April 2026
+- PSAP 2026 — SOC analyst and detection engineering roles, Tampa Bay market
+- Expanding Wazuh SIEM detections and Splunk correlation rules
 
 <br>
 
