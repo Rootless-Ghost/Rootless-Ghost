@@ -72,8 +72,8 @@ Nebula Forge includes two automated pipelines:
 
 <br>
 
- **$\color{green}\normalsize{\textsf{Detection Engineering}}$**
-
+ $\color{green}\normalsize{\textsf{Detection Engineering}}$
+---
  | Tool | Port | Description |
 |------|------|-------------|
 | [LogNorm](https://github.com/Rootless-Ghost/Nebula-Forge) | 5006 | ECS-lite log normalizer for disparate SIEM sources |
