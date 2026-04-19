@@ -84,6 +84,7 @@ Nebula Forge includes two automated pipelines:
 | [VulnForge](https://github.com/Rootless-Ghost/Nebula-Forge) | 5012 | Exploit intel aggregator → ATT&CK mapping → pipeline trigger |
 | [WifiForge](https://github.com/Rootless-Ghost/Nebula-Forge) | 5013 | 802.11 threat detector with deauth/rogue AP detection → LogNorm export |
 
+
 **[YaraForge](https://github.com/Rootless-Ghost/YaraForge)** - YARA Rule Generator & Testing Platform  
 Build, manage, test, and visualize YARA detection rules with MITRE ATT&CK mapping and a detection dashboard.  
 `Python` `Flask` `YARA` `MITRE ATT&CK` `Detection Engineering`
