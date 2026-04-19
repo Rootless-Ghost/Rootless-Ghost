@@ -223,7 +223,7 @@ $\color{Goldenrod}\Large{\textsf{Lab Environments}}$
 * Malware analysis sandbox
 * WiFi penetration testing lab
 * Flipper Zero / Pwnagotchi
-* Wazuh SIEM with Sysmon integration & MITRE ATT&CK-mapped detections (5 agents across Windows/Linux/Kali)
+* Wazuh SIEM with Sysmon integration & MITRE ATT&CK-mapped detections (5 agents: Windows, Linux)
 * Splunk Free on Ubuntu for detection and hunt workflows
 
 <br>
