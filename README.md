@@ -195,6 +195,11 @@ Professional incident report generator following NIST 800-61 framework with seve
 `Python` `Flask` `NIST 800-61` `Incident Response` `SOC`
 
 $\color{green}\normalsize{\textsf{Wireless Security}}$
+---
+| Tool | Description |
+|------|-------------|
+| [Hidden-Rogue-AP-Detector](https://github.com/Rootless-Ghost/Hidden-Rogue-AP-Detector) | Rogue AP detection via RSSI analysis with whitelist management |
+| [Wi-Fi-Probe-Request-Sniffer](https://github.com/Rootless-Ghost/Wi-Fi-Probe-Request-Sniffer) | 802.11 probe request capture with MAC vendor ID and CSV/JSON export |
 
 **[Hidden-Rogue-AP-Detector](https://github.com/Rootless-Ghost/Hidden-Rogue-AP-Detector)** - Rogue Access Point Detector
 Python-based wireless security tool for detecting unauthorized access points using RSSI signal strength analysis, whitelist management, and active/passive scanning modes.
@@ -205,6 +210,11 @@ Captures and analyzes wireless probe requests from nearby devices with SSID extr
 `Python` `Scapy` `802.11` `Network Security` `Device Enumeration`
 
 $\color{green}\normalsize{\textsf{Offensive Security Tools}}$
+---
+| Tool | Description |
+|------|-------------|
+| [SMB-RDP-Exploitation-Scanner](https://github.com/Rootless-Ghost/SMB-RDP-Exploitation-Scanner) | SMB/RDP vulnerability scanner — EternalBlue, SMBGhost, BlueKeep, credential brute force |
+| [Network-Security-Toolkit](https://github.com/Rootless-Ghost/network-security-toolkit) | PathFinder (attack path mapping) + PathGuard (defensive hardening) on shared NetworkMapper core |
 
 **[SMB-RDP-Exploitation-Scanner](https://github.com/Rootless-Ghost/SMB-RDP-Exploitation-Scanner)**  — SMB & RDP Vulnerability Scanner
 Python-based exploitation scanner for authorized penetration testing. Detects and validates SMB vulnerabilities (EternalBlue MS17-010, SMBGhost CVE-2020-0796, null session enumeration) and RDP vulnerabilities (BlueKeep CVE-2019-0708) with credential brute forcing, multi-format reporting (JSON/CSV/TXT), and threaded subnet scanning. Designed for Kali Linux.
