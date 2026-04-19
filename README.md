@@ -73,7 +73,14 @@ Nebula Forge includes two automated pipelines:
 <br>
 
  $\color{green}\normalsize{\textsf{Detection Engineering}}$
- 
+ ---
+ | Tool | Description |
+|------|-------------|
+| [SigmaForge](https://github.com/Rootless-Ghost/SigmaForge) | Vendor-agnostic Sigma rule generator — Splunk SPL, Elastic KQL/EQL, Sentinel KQL, Wazuh XML, QRadar AQL, Detection-as-Code JSON |
+| [YaraForge](https://github.com/Rootless-Ghost/YaraForge) | YARA rule generator with ATT&CK mapping and detection dashboard |
+| [SnortForge](https://github.com/Rootless-Ghost/SnortForge) | Snort 2/3 rule generator with multi-content chaining, performance scoring, and 12 detection templates |
+| [Azure-SOC-mini-lab](https://github.com/Rootless-Ghost/azure-soc-mini-lab) | Azure cloud detection lab — 12 ATT&CK-mapped simulations, KQL detections, Sentinel playbooks |
+| [AWS-SOC-lab](https://github.com/Rootless-Ghost/aws-soc-lab) | AWS cloud detection lab — CloudTrail detections, IAM/S3/EC2 attack simulations, GuardDuty integration |
 
 **[YaraForge](https://github.com/Rootless-Ghost/YaraForge)** - YARA Rule Generator & Testing Platform  
 Build, manage, test, and visualize YARA detection rules with MITRE ATT&CK mapping and a detection dashboard.  
