@@ -146,6 +146,11 @@ Passively scans wireless networks, assesses security posture, detects deauth att
 `Python` `Flask` `Scapy` `Wireless Security` `MITRE ATT&CK`
 
 $\color{green}\normalsize{\textsf{Endpoint Security}}$
+---
+| Tool | Description |
+|------|-------------|
+| [EndpointForge](https://github.com/Rootless-Ghost/EndpointForge) | Cross-platform HIDS — process, FIM, network, registry, autoruns with Wazuh NDJSON export |
+| [EndpointTriage](https://github.com/Rootless-Ghost/EndpointTriage) | PowerShell IR artifact collector — processes, persistence, event logs, Sysmon, HTML report output |
 
 **[EndpointForge](https://github.com/Rootless-Ghost/EndpointForge)** - Cross-Platform Endpoint Security Monitor  
 Host-based intrusion detection and endpoint triage across 5 modules: process execution, file integrity (SHA-256 FIM), network connections, registry persistence (Windows), and autoruns — all MITRE ATT&CK mapped. Includes **Wazuh export integration**: `POST /api/wazuh/export` writes NDJSON picked up by the Wazuh agent using bundled decoder and rules (IDs 100200–100265) with ATT&CK technique tags — no manual log shipping. Markdown/JSON report generation for IR workflows.  
@@ -156,6 +161,14 @@ Automated PowerShell-based IR triage script that collects volatile and non-volat
 `PowerShell` `Incident Response` `Forensics` `DFIR` `Endpoint Security`
 
 $\color{green}\normalsize{\textsf{Blue Team}}$
+---
+| Tool | Description |
+|------|-------------|
+| [Log-Analyzer](https://github.com/Rootless-Ghost/Log-Analyzer) | SOC-focused log analysis with pattern matching and anomaly detection |
+| [Phishing-Analyzer](https://github.com/Rootless-Ghost/Phishing-Analyzer) | Email header and content analysis for phishing campaign identification |
+| [SIREN](https://github.com/Rootless-Ghost/SIREN) | NIST 800-61 incident report generator with severity scoring, IOC tracking, and timeline management |
+| [Threat-Intel-Dashboard](https://github.com/Rootless-Ghost/Threat-Intel-Dashboard) | Real-time IOC tracking, feed aggregation, and visual analytics |
+| [Security-Awareness-Training](https://github.com/Rootless-Ghost/Security-Awareness-Training) | Phishing simulation and training platform |
 
 **[Log-Analyzer](https://github.com/Rootless-Ghost/log-Analyzer)** - Security Log Analyzer  
 Python-based log analysis tool designed for SOC analysts with pattern matching and anomaly detection.  
