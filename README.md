@@ -72,9 +72,7 @@ Nebula Forge includes two automated pipelines:
 
 <br>
 
----
-
- $\color{green}\normalsize{\textsf{Detection Engineering}}$
+ **$\color{green}\normalsize{\textsf{Detection Engineering}}$**
 
  | Tool | Port | Description |
 |------|------|-------------|
