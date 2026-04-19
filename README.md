@@ -99,6 +99,16 @@ CloudTrail-based detections in CloudWatch Logs Insights and Athena SQL, attack s
 `AWS` `CloudTrail` `GuardDuty` `CloudWatch Logs Insights` `Athena` `MITRE ATT&CK` `Detection Engineering` `Cloud Security`
 
 $\color{MediumOrchid}\normalsize{\textsf{Nebula Forge Detection Suite v2}}$
+---
+| Tool | Port | Description |
+|------|------|-------------|
+| [LogNorm](https://github.com/Rootless-Ghost/Nebula-Forge) | 5006 | ECS-lite log normalizer for disparate SIEM sources |
+| [HuntForge](https://github.com/Rootless-Ghost/HuntForge) | 5007 | ATT&CK-mapped threat hunt playbook generator |
+| [DriftWatch](https://github.com/Rootless-Ghost/Nebula-Forge) | 5008 | Sigma rule drift analyzer — feeds the drift-scan pipeline |
+| [ClusterIQ](https://github.com/Rootless-Ghost/Nebula-Forge) | 5009 | Behavioral alert clustering engine for SOC triage noise reduction |
+| [AtomicLoop](https://github.com/Rootless-Ghost/AtomicLoop) | 5011 | Atomic Red Team runner — feeds the purple-loop pipeline |
+| [VulnForge](https://github.com/Rootless-Ghost/Nebula-Forge) | 5012 | Exploit intel aggregator → ATT&CK mapping → pipeline trigger |
+| [WifiForge](https://github.com/Rootless-Ghost/Nebula-Forge) | 5013 | 802.11 threat detector with deauth/rogue AP detection → LogNorm export |
  
 **[LogNorm](https://github.com/Rootless-Ghost/LogNorm)** - Log Source Normalizer *(port 5006)*  
 Normalizes log sources from disparate inputs into a consistent ECS-lite schema for downstream detection and analysis pipelines.  
