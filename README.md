@@ -64,7 +64,7 @@ $\color{Goldenrod}\Large{\textsf{Featured Projects}}$
 
 $\color{MediumOrchid}\large{\textsf{Nebula Forge Detection Suite v2}}$
 
-All 19 tools are part of Nebula Forge — an open-source SOC platform covering the full workflow: Detect → Normalize → Hunt → Drift → Cluster → Simulate → Investigate → Respond → Report. The Detection Suite v2 (9 tools) runs as a fully containerized stack — a single `docker compose up -d` starts all services with a shared Postgres backend. The dashboard (port 5010) provides live status, one-click launches, and pipeline monitoring across the entire suite.
+All 19 tools are part of **[Nebula Forge](https://github.com/Rootless-Ghost/nebula-forge)** — an open-source SOC platform covering the full workflow: Detect → Normalize → Hunt → Drift → Cluster → Simulate → Investigate → Respond → Report. The Detection Suite v2 (9 tools) runs as a fully containerized stack — a single `docker compose up -d` starts all services with a shared Postgres backend. The dashboard (port 5010) provides live status, one-click launches, and pipeline monitoring across the entire suite.
 
 Nebula Forge includes two automated pipelines:
 - **Drift-scan** — scheduled Sigma rule drift analysis across your detection library
