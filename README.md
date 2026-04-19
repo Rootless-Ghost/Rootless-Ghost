@@ -183,12 +183,20 @@ Enterprise-style platform with phishing simulations, training modules, and progr
 `Python` `Flask` `Security Training` `Phishing Simulation`
 
 $\color{green}\normalsize{\textsf{Threat Intelligence}}$
+---
+| Tool | Description |
+|------|-------------|
+| [Threat-Intel-Dashboard](https://github.com/Rootless-Ghost/Threat-Intel-Dashboard) | Real-time IOC tracking, feed aggregation, and visual analytics for SOC operations |
 
 **[Threat-Intel-Dashboard](https://github.com/Rootless-Ghost/Threat-Intel-Dashboard)** - Threat Intelligence Dashboard  
 Real-time threat intelligence platform with IOC tracking, feed aggregation, and visual analytics for SOC operations.  
 `HTML` `JavaScript` `Threat Intelligence` `OSINT` `SOC`
 
 $\color{green}\normalsize{\textsf{Incident Response}}$
+---
+| Tool | Description |
+|------|-------------|
+| [SIREN](https://github.com/Rootless-Ghost/SIREN) | NIST 800-61 incident report generator with severity scoring, IOC tracking, and timeline management |
 
 **[SIREN](https://github.com/Rootless-Ghost/SIREN)** - Security Incident Response Engine & Notation  
 Professional incident report generator following NIST 800-61 framework with severity scoring, IOC tracking, timeline management, and Markdown/JSON export.  
