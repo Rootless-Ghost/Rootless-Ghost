@@ -74,7 +74,6 @@ Nebula Forge includes two automated pipelines:
 
  $\color{green}\normalsize{\textsf{Detection Engineering}}$
  
----
 
 **[YaraForge](https://github.com/Rootless-Ghost/YaraForge)** - YARA Rule Generator & Testing Platform  
 Build, manage, test, and visualize YARA detection rules with MITRE ATT&CK mapping and a detection dashboard.  
