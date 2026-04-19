@@ -82,7 +82,11 @@ Build, manage, test, and visualize YARA detection rules with MITRE ATT&CK mappin
 `Python` `Flask` `Snort` `IDS/IPS` `Network Security`
 
 **[SigmaForge](https://github.com/Rootless-Ghost/SigmaForge)** — Vendor-Agnostic Sigma Rule Generator
-Custom conversion engine (no pySigma dependency) generating Sigma rules to **6 SIEM backends**: Splunk SPL, Elastic KQL, EQL, Sentinel KQL, Wazuh XML, and QRadar AQL — plus Detection-as-Code JSON. MITRE ATT&CK mapping, 12 pre-built templates, rule library, and standalone CLI.
+Custom conversion engine (no pySigma dependency) generating Sigma rules 
+to 6 SIEM backends: Splunk SPL, Elastic KQL, EQL, Sentinel KQL, Wazuh XML, 
+and QRadar AQL — plus Detection-as-Code JSON. MITRE ATT&CK mapping, 
+12 pre-built templates, rule library, and standalone CLI.
+Python Flask Sigma SIEM Detection Engineering CLI
 `Python` `Flask` `Sigma` `SIEM` `Detection Engineering` `CLI`
 
 **[Azure-SOC-mini-lab](https://github.com/Rootless-Ghost/Azure-SOC-Mini-Lab)** — Azure Cloud Detection Lab
