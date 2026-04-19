@@ -73,6 +73,7 @@ Nebula Forge includes two automated pipelines:
 <br>
 
  $\color{green}\normalsize{\textsf{Detection Engineering}}$
+ 
 ---
 
 **[YaraForge](https://github.com/Rootless-Ghost/YaraForge)** - YARA Rule Generator & Testing Platform  
