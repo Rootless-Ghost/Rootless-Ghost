@@ -204,7 +204,7 @@ Professional incident report generator following NIST 800-61 framework with seve
 
 
 $\color{green}\normalsize{\textsf{Training}}$
-
+---
 | Tool | Description |
 | --- | --- |
 | [WarGameForge](https://github.com/Rootless-Ghost/WarGameForge) | SOC investigation scenario generator — MITRE-driven, difficulty-scaled training |
