@@ -185,12 +185,17 @@ Enterprise-style platform with phishing simulations, training modules, and progr
 $\color{green}\normalsize{\textsf{Threat Intelligence}}$
 ---
 | Tool | Description |
-|------|-------------|
+| --- | --- |
 | [Threat-Intel-Dashboard](https://github.com/Rootless-Ghost/Threat-Intel-Dashboard) | Real-time IOC tracking, feed aggregation, and visual analytics for SOC operations |
+| [ThreatTape](https://github.com/Rootless-Ghost/ThreatTape) | Live IOC threat intel feed — AbuseIPDB + OTX aggregation with MITRE ATT&CK tagging |
 
 **[Threat-Intel-Dashboard](https://github.com/Rootless-Ghost/Threat-Intel-Dashboard)** - Threat Intelligence Dashboard  
 Real-time threat intelligence platform with IOC tracking, feed aggregation, and visual analytics for SOC operations.  
 `HTML` `JavaScript` `Threat Intelligence` `OSINT` `SOC`
+
+**[ThreatTape](https://github.com/Rootless-Ghost/ThreatTape)** - Live IOC Threat Intel Feed *(port 5014)*  
+Aggregates indicators of compromise from AbuseIPDB and AlienVault OTX, displays live IOC data with severity scoring, country of origin, community report counts, and MITRE ATT&CK technique tags. Falls back to curated mock data with no API keys required.  
+`Python` `Flask` `Threat Intelligence` `IOC` `MITRE ATT&CK` `AbuseIPDB` `OTX`
 
 $\color{green}\normalsize{\textsf{Incident Response}}$
 ---
