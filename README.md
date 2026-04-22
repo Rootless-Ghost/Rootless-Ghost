@@ -168,7 +168,6 @@ $\color{green}\normalsize{\textsf{Blue Team}}$
 | [Phishing-Analyzer](https://github.com/Rootless-Ghost/Phishing-Analyzer) | Email header and content analysis for phishing campaign identification |
 | [SIREN](https://github.com/Rootless-Ghost/SIREN) | NIST 800-61 incident report generator with severity scoring, IOC tracking, and timeline management |
 | [Threat-Intel-Dashboard](https://github.com/Rootless-Ghost/Threat-Intel-Dashboard) | Real-time IOC tracking, feed aggregation, and visual analytics |
-| [Security-Awareness-Training](https://github.com/Rootless-Ghost/Security-Awareness-Training) | Phishing simulation and training platform |
 
 **[Log-Analyzer](https://github.com/Rootless-Ghost/log-Analyzer)** - Security Log Analyzer  
 Python-based log analysis tool designed for SOC analysts with pattern matching and anomaly detection.  
@@ -177,10 +176,6 @@ Python-based log analysis tool designed for SOC analysts with pattern matching a
 **[Phishing-Analyzer](https://github.com/Rootless-Ghost/Phishing-Analyzer)** - Phishing Email Analyzer  
 Email header and content analysis tool for identifying phishing campaigns and malicious indicators.  
 `Python` `Email Security` `Phishing Detection` `Blue Team`
-
-**[Security-Awareness-Training](https://github.com/Rootless-Ghost/Security-Awareness-Training)** - Security Awareness Platform  
-Enterprise-style platform with phishing simulations, training modules, and progress tracking.  
-`Python` `Flask` `Security Training` `Phishing Simulation`
 
 $\color{green}\normalsize{\textsf{Threat Intelligence}}$
 ---
@@ -206,6 +201,24 @@ $\color{green}\normalsize{\textsf{Incident Response}}$
 **[SIREN](https://github.com/Rootless-Ghost/SIREN)** - Security Incident Response Engine & Notation  
 Professional incident report generator following NIST 800-61 framework with severity scoring, IOC tracking, timeline management, and Markdown/JSON export.  
 `Python` `Flask` `NIST 800-61` `Incident Response` `SOC`
+
+
+$\color{green}\normalsize{\textsf{Training}}$
+
+| Tool | Description |
+| --- | --- |
+| [WarGameForge](https://github.com/Rootless-Ghost/WarGameForge) | SOC investigation scenario generator — MITRE-driven, difficulty-scaled training |
+| [Security-Awareness-Training](https://github.com/Rootless-Ghost/Security-Awareness-Training) | Enterprise-style phishing simulation and security awareness training platform |
+
+**[WarGameForge](https://github.com/Rootless-Ghost/WarGameForge)** - SOC Investigation Scenario Generator
+Generates realistic SOC investigation scenarios from MITRE ATT&CK techniques — complete with SIEM alert blocks, investigation clues, red herring artifacts, and step-by-step solution walkthroughs. Difficulty-scaled from easy to hard, 12 built-in techniques plus custom input.
+`Python` `Flask` `SOC Training` `MITRE ATT&CK` `Detection Engineering` `Blue Team`
+
+**[Security-Awareness-Training](https://github.com/Rootless-Ghost/Security-Awareness-Training)** - Security Awareness Platform
+Enterprise-style platform with phishing simulations, training modules, and progress tracking.
+`Python` `Flask` `Security Training` `Phishing Simulation`
+
+
 
 $\color{green}\normalsize{\textsf{Wireless Security}}$
 ---
