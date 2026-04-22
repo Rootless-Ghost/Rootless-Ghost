@@ -36,6 +36,7 @@ Purple Team & SOC Focus — building both offensive and defensive capabilities
 Operating a 22+ VM home lab for attack simulation and detection engineering  
 Pursuing **PSAA → PSAP → Security+ → CCDL1 → PAPA → PJPT → PNPT** certification path  
 **TryHackMe Top 1%** - 270+ rooms completed (Inactive)
+
 Actively seeking **SOC Analyst & Purple Team** roles
 
 <br>
