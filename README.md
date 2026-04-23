@@ -116,6 +116,7 @@ $\color{MediumOrchid}\normalsize{\textsf{Nebula Forge Detection Suite v2}}$
 | [AtomicLoop](https://github.com/Rootless-Ghost/AtomicLoop) | 5011 | Atomic Red Team runner — feeds the purple-loop pipeline |
 | [VulnForge](https://github.com/Rootless-Ghost/Nebula-Forge) | 5012 | Exploit intel aggregator → ATT&CK mapping → pipeline trigger |
 | [WifiForge](https://github.com/Rootless-Ghost/Nebula-Forge) | 5013 | 802.11 threat detector with deauth/rogue AP detection → LogNorm export |
+| **AgentWatch** | **—** | **Wazuh agent health monitor — real-time disconnection detection, state change alerting, and JSON log events for SIEM ingestion** |
  
 **[LogNorm](https://github.com/Rootless-Ghost/LogNorm)** - Log Source Normalizer *(port 5006)*  
 Normalizes log sources from disparate inputs into a consistent ECS-lite schema for downstream detection and analysis pipelines.  
@@ -144,6 +145,10 @@ Aggregates exploit intelligence from ExploitDB, NVD, and Metasploit, maps findin
 **[WifiForge](https://github.com/Rootless-Ghost/WifiForge)** - Wireless Network Security Analyzer *(port 5013)*  
 Passively scans wireless networks, assesses security posture, detects deauth attacks and rogue configurations, maps findings to MITRE ATT&CK techniques, and exports results to the Nebula Forge LogNorm pipeline.  
 `Python` `Flask` `Scapy` `Wireless Security` `MITRE ATT&CK`
+
+**AgentWatch — Wazuh Agent Health Monitor**
+Lightweight Rust binary that polls the Wazuh REST API, surfaces disconnected and never-connected agents in real time, detects state transitions, and emits structured JSON log events compatible with Wazuh log ingestion. Runs as a persistent monitor alongside the Nebula Forge stack.
+`Rust` `Wazuh` `Lab Infra` `SOC` `SIEM` `Agent Monitoring`
 
 $\color{green}\normalsize{\textsf{Endpoint Security}}$
 ---
