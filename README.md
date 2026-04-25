@@ -263,7 +263,7 @@ $\color{Goldenrod}\Large{\textsf{Current Focus}}$
 
 - Nebula Forge Detection Suite v2 — 7 tools containerized and live (LogNorm, HuntForge, DriftWatch, ClusterIQ, AtomicLoop, VulnForge, WifiForge) + dashboard (5010) + Postgres — single `docker compose up -d`
 - Purple team automation pipelines: drift-scan and purple-loop validated end-to-end April 2026
-- PSAP 2026 — SOC analyst and detection engineering roles, Tampa Bay market
+- PSAP 2026 — SOC analyst and detection engineering roles
 - Expanding Wazuh SIEM detections and Splunk correlation rules
 
 <br>
