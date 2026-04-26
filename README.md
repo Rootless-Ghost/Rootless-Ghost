@@ -30,7 +30,7 @@ $\color{Goldenrod}\Large{\textsf{About Me}}$
 ---
 <br>
 
-**Former Navy Hospital Corpsman** to cybersecurity with real-world combat experience. I bring military discipline, high-pressure decision-making skills, and a systematic approach to threat detection and incident response.
+**Former Navy Corpsman** to cybersecurity with real-world combat experience. I bring military discipline, high-pressure decision-making skills, and a systematic approach to threat detection and incident response.
 
 Purple Team & SOC Focus — building both offensive and defensive capabilities                                                                                                                                
 Operating a 22+ VM home lab for attack simulation and detection engineering  
