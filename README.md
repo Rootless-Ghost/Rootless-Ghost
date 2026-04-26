@@ -109,13 +109,13 @@ $\color{MediumOrchid}\normalsize{\textsf{Nebula Forge Detection Suite v2}}$
 ---
 | Tool | Port | Description |
 |------|------|-------------|
-| [LogNorm](https://github.com/Rootless-Ghost/Nebula-Forge) | 5006 | ECS-lite log normalizer for disparate SIEM sources |
+| [LogNorm](https://github.com/Rootless-Ghost/LogNorm) | 5006 | ECS-lite log normalizer for disparate SIEM sources |
 | [HuntForge](https://github.com/Rootless-Ghost/HuntForge) | 5007 | ATT&CK-mapped threat hunt playbook generator |
-| [DriftWatch](https://github.com/Rootless-Ghost/Nebula-Forge) | 5008 | Sigma rule drift analyzer — feeds the drift-scan pipeline |
-| [ClusterIQ](https://github.com/Rootless-Ghost/Nebula-Forge) | 5009 | Behavioral alert clustering engine for SOC triage noise reduction |
+| [DriftWatch](https://github.com/Rootless-Ghost/DriftWatch) | 5008 | Sigma rule drift analyzer — feeds the drift-scan pipeline |
+| [ClusterIQ](https://github.com/Rootless-Ghost/ClusterIQ) | 5009 | Behavioral alert clustering engine for SOC triage noise reduction |
 | [AtomicLoop](https://github.com/Rootless-Ghost/AtomicLoop) | 5011 | Atomic Red Team runner — feeds the purple-loop pipeline |
-| [VulnForge](https://github.com/Rootless-Ghost/Nebula-Forge) | 5012 | Exploit intel aggregator → ATT&CK mapping → pipeline trigger |
-| [WifiForge](https://github.com/Rootless-Ghost/Nebula-Forge) | 5013 | 802.11 threat detector with deauth/rogue AP detection → LogNorm export |
+| [VulnForge](https://github.com/Rootless-Ghost/VulnForge) | 5012 | Exploit intel aggregator → ATT&CK mapping → pipeline trigger |
+| [WifiForge](https://github.com/Rootless-Ghost/WifiForge) | 5013 | 802.11 threat detector with deauth/rogue AP detection → LogNorm export |
 | [AgentWatch](https://github.com/Rootless-Ghost/AgentWatch) | **—** | **Wazuh agent health monitor — real-time disconnection detection, state change alerting, and JSON log events for SIEM ingestion** |
  
 **[LogNorm](https://github.com/Rootless-Ghost/LogNorm)** - Log Source Normalizer *(port 5006)*  
@@ -171,8 +171,6 @@ $\color{green}\normalsize{\textsf{Blue Team}}$
 |------|-------------|
 | [Log-Analyzer](https://github.com/Rootless-Ghost/Log-Analyzer) | SOC-focused log analysis with pattern matching and anomaly detection |
 | [Phishing-Analyzer](https://github.com/Rootless-Ghost/Phishing-Analyzer) | Email header and content analysis for phishing campaign identification |
-| [SIREN](https://github.com/Rootless-Ghost/SIREN) | NIST 800-61 incident report generator with severity scoring, IOC tracking, and timeline management |
-| [Threat-Intel-Dashboard](https://github.com/Rootless-Ghost/Threat-Intel-Dashboard) | Real-time IOC tracking, feed aggregation, and visual analytics |
 
 **[Log-Analyzer](https://github.com/Rootless-Ghost/log-Analyzer)** - Security Log Analyzer  
 Python-based log analysis tool designed for SOC analysts with pattern matching and anomaly detection.  
