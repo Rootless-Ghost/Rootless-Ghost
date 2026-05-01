@@ -64,7 +64,7 @@ $\color{Goldenrod}\Large{\textsf{Featured Projects}}$
 
 $\color{MediumOrchid}\large{\textsf{Nebula Forge Detection Suite v2}}$
 
-All 20 tools are part of **[Nebula Forge](https://github.com/Rootless-Ghost/nebula-forge)** — an open-source SOC platform covering the full workflow: Detect → Normalize → Hunt → Drift → Cluster → Simulate → Investigate → Respond → Report. The Detection Suite v2 runs as a fully containerized stack — 7 tools, a shared Postgres backend, and a central dashboard — a single `docker compose up -d` starts all services with a shared Postgres backend. The dashboard (port 5010) provides live status, one-click launches, and pipeline monitoring across all 20 tools in the org.
+All 20 tools are part of **[Nebula Forge](https://github.com/Rootless-Ghost/nebula-forge)** — an open-source SOC platform covering the full workflow: Detect → Normalize → Hunt → Drift → Cluster → Simulate → Investigate → Respond → Report. The full suite runs as a fully containerized stack — 13 containerized tools, 15 services total, a shared Postgres backend, and a central dashboard — clone all repos with the included setup script, then a single `docker compose up -d` starts all services. The dashboard (port 5010) provides live status, one-click launches, and pipeline monitoring across all 20 tools in the org.
 
 Nebula Forge includes two automated pipelines:
 - **Drift-scan** — scheduled Sigma rule drift analysis across your detection library
@@ -79,8 +79,6 @@ Nebula Forge includes two automated pipelines:
 | [SigmaForge](https://github.com/Rootless-Ghost/SigmaForge) | Vendor-agnostic Sigma rule generator — Splunk SPL, Elastic KQL/EQL, Sentinel KQL, Wazuh XML, QRadar AQL, Detection-as-Code JSON |
 | [YaraForge](https://github.com/Rootless-Ghost/YaraForge) | YARA rule generator with ATT&CK mapping and detection dashboard |
 | [SnortForge](https://github.com/Rootless-Ghost/SnortForge) | Snort 2/3 rule generator with multi-content chaining, performance scoring, and 12 detection templates |
-| [Azure-SOC-mini-lab](https://github.com/Rootless-Ghost/azure-soc-mini-lab) | Azure cloud detection lab — 12 ATT&CK-mapped simulations, KQL detections, Sentinel playbooks |
-| [AWS-SOC-lab](https://github.com/Rootless-Ghost/aws-soc-lab) | AWS cloud detection lab — CloudTrail detections, IAM/S3/EC2 attack simulations, GuardDuty integration |
 
 **[YaraForge](https://github.com/Rootless-Ghost/YaraForge)** - YARA Rule Generator & Testing Platform  
 Build, manage, test, and visualize YARA detection rules with MITRE ATT&CK mapping and a detection dashboard.  
@@ -97,13 +95,16 @@ and QRadar AQL — plus Detection-as-Code JSON. MITRE ATT&CK mapping,
 Python Flask Sigma SIEM Detection Engineering CLI
 `Python` `Flask` `Sigma` `SIEM` `Detection Engineering` `CLI`
 
-**[Azure-SOC-mini-lab](https://github.com/Rootless-Ghost/Azure-SOC-Mini-Lab)** — Azure Cloud Detection Lab
-KQL detections, attack simulations (12 MITRE ATT&CK techniques mapped), and IR documentation for the Azure control plane — identity, compute, and key vault planes. Built on Microsoft Sentinel / Log Analytics with anomaly-based detection, synthetic log samples, and an automated NSG response playbook.
-`Azure` `KQL` `Microsoft Sentinel` `MITRE ATT&CK` `Detection Engineering` `Cloud Security`
-
-**[AWS-SOC-lab](https://github.com/Rootless-Ghost/AWS-SOC-Lab)** — AWS Cloud Detection Lab
-CloudTrail-based detections in CloudWatch Logs Insights and Athena SQL, attack simulations for IAM privilege escalation, credential exfiltration, S3 enumeration and public exposure, CloudTrail disable, and EC2 post-exploitation via SSM RunCommand — with GuardDuty finding integration, 5 IR reports, and a Lambda auto-response playbook. AWS companion to Azure-SOC-mini-lab.
-`AWS` `CloudTrail` `GuardDuty` `CloudWatch Logs Insights` `Athena` `MITRE ATT&CK` `Detection Engineering` `Cloud Security`
+$\color{MediumOrchid}\large{\textsf{Nebula Forge Detection Suite v1}}$
+---
+| Tool | Port | Description |
+|------|------|-------------|
+| [SigmaForge](https://github.com/Rootless-Ghost/SigmaForge) | 5000 | Custom Sigma conversion engine — 6 SIEM backends, Detection-as-Code JSON, no pySigma dependency |
+| [YaraForge](https://github.com/Rootless-Ghost/YaraForge) | 5001 | YARA rule builder with live scanning, MITRE ATT&CK tagging, SQLite storage |
+| [Threat-Intel-Dashboard](https://github.com/Rootless-Ghost/Threat-Intel-Dashboard) | 5002 | IOC reputation lookup — VirusTotal, AbuseIPDB; auto-type detection; demo mode |
+| [SnortForge](https://github.com/Rootless-Ghost/SnortForge) | 5003 | Snort 2/3 rule generator — multi-content chaining, PCRE, 0–100 performance scorer |
+| [SIREN](https://github.com/Rootless-Ghost/SIREN) | 5004 | NIST 800-61 IR report builder — timeline, IOC tracking, composite severity scoring |
+| [EndpointForge](https://github.com/Rootless-Ghost/EndpointForge) | 5005 | Cross-platform HIDS — process, FIM, network, registry, persistence — Wazuh export |
 
 $\color{MediumOrchid}\normalsize{\textsf{Nebula Forge Detection Suite v2}}$
 ---
@@ -170,7 +171,7 @@ $\color{green}\normalsize{\textsf{Blue Team}}$
 
 **[Log-Analyzer](https://github.com/Rootless-Ghost/log-Analyzer)** - Security Log Analyzer  
 Python-based log analysis tool designed for SOC analysts with pattern matching and anomaly detection.  
-`Python` `Flask` `SIEM` `Log Analysis` `SOC`
+`Python` `SIEM` `Log Analysis` `SOC`
 
 **[Phishing-Analyzer](https://github.com/Rootless-Ghost/Phishing-Analyzer)** - Phishing Email Analyzer  
 Email header and content analysis tool for identifying phishing campaigns and malicious indicators.  
@@ -207,47 +208,28 @@ $\color{green}\normalsize{\textsf{Training}}$
 | Tool | Description |
 | --- | --- |
 | [WarGameForge](https://github.com/Rootless-Ghost/WarGameForge) | SOC investigation scenario generator — MITRE-driven, difficulty-scaled training |
-| [Security-Awareness-Training](https://github.com/Rootless-Ghost/Security-Awareness-Training) | Enterprise-style phishing simulation and security awareness training platform |
 
 **[WarGameForge](https://github.com/Rootless-Ghost/WarGameForge)** - SOC Investigation Scenario Generator
 Generates realistic SOC investigation scenarios from MITRE ATT&CK techniques — complete with SIEM alert blocks, investigation clues, red herring artifacts, and step-by-step solution walkthroughs. Difficulty-scaled from easy to hard, 12 built-in techniques plus custom input.
 `Python` `Flask` `SOC Training` `MITRE ATT&CK` `Detection Engineering` `Blue Team`
 
-**[Security-Awareness-Training](https://github.com/Rootless-Ghost/Security-Awareness-Training)** - Security Awareness Platform
-Enterprise-style platform with phishing simulations, training modules, and progress tracking.
-`Python` `Flask` `Security Training` `Phishing Simulation`
 
 
 
-$\color{green}\normalsize{\textsf{Wireless Security}}$
+$\color{Goldenrod}\large{\textsf{Cloud Labs}}$
 ---
-| Tool | Description |
-|------|-------------|
-| [Hidden-Rogue-AP-Detector](https://github.com/Rootless-Ghost/Hidden-Rogue-AP-Detector) | Rogue AP detection via RSSI analysis with whitelist management |
-| [Wi-Fi-Probe-Request-Sniffer](https://github.com/Rootless-Ghost/Wi-Fi-Probe-Request-Sniffer) | 802.11 probe request capture with MAC vendor ID and CSV/JSON export |
+| Lab | Layer | Description |
+|-----|-------|-------------|
+| [Azure-SOC-mini-lab](https://github.com/Rootless-Ghost/azure-soc-mini-lab) | Azure | KQL detections, 12 ATT&CK-mapped simulations, IR documentation, Sentinel playbooks |
+| [AWS-SOC-lab](https://github.com/Rootless-Ghost/aws-soc-lab) | AWS | CloudTrail detections, IAM/S3/EC2 attack sims, GuardDuty integration, Lambda auto-response |
 
-**[Hidden-Rogue-AP-Detector](https://github.com/Rootless-Ghost/Hidden-Rogue-AP-Detector)** - Rogue Access Point Detector
-Python-based wireless security tool for detecting unauthorized access points using RSSI signal strength analysis, whitelist management, and active/passive scanning modes.
-`Python` `Scapy` `Wireless Security` `Network Monitoring` `Rogue AP Detection`
+**[Azure-SOC-mini-lab](https://github.com/Rootless-Ghost/Azure-SOC-Mini-Lab)** — Azure Cloud Detection Lab
+KQL detections, attack simulations (12 MITRE ATT&CK techniques mapped), and IR documentation for the Azure control plane — identity, compute, and key vault planes. Built on Microsoft Sentinel / Log Analytics with anomaly-based detection, synthetic log samples, and an automated NSG response playbook.
+`Azure` `KQL` `Microsoft Sentinel` `MITRE ATT&CK` `Detection Engineering` `Cloud Security`
 
-**[Wi-Fi-Probe-Request-Sniffer](https://github.com/Rootless-Ghost/Wi-Fi-Probe-Request-Sniffer)** - Wi-Fi Probe Request Analyzer
-Captures and analyzes wireless probe requests from nearby devices with SSID extraction, MAC vendor identification, and CSV/JSON export for network visibility and device enumeration.
-`Python` `Scapy` `802.11` `Network Security` `Device Enumeration`
-
-$\color{green}\normalsize{\textsf{Offensive Security Tools}}$
----
-| Tool | Description |
-|------|-------------|
-| [SMB-RDP-Exploitation-Scanner](https://github.com/Rootless-Ghost/SMB-RDP-Exploitation-Scanner) | SMB/RDP vulnerability scanner — EternalBlue, SMBGhost, BlueKeep, credential brute force |
-| [Network-Security-Toolkit](https://github.com/Rootless-Ghost/network-security-toolkit) | PathFinder (attack path mapping) + PathGuard (defensive hardening) on shared NetworkMapper core |
-
-**[SMB-RDP-Exploitation-Scanner](https://github.com/Rootless-Ghost/SMB-RDP-Exploitation-Scanner)**  — SMB & RDP Vulnerability Scanner
-Python-based exploitation scanner for authorized penetration testing. Detects and validates SMB vulnerabilities (EternalBlue MS17-010, SMBGhost CVE-2020-0796, null session enumeration) and RDP vulnerabilities (BlueKeep CVE-2019-0708) with credential brute forcing, multi-format reporting (JSON/CSV/TXT), and threaded subnet scanning. Designed for Kali Linux.
-`Python` `Penetration Testing` `SMB` `RDP` `Network Security` `Vulnerability Assessment`
-
-**[Network-Security-Toolkit](https://github.com/Rootless-Ghost/Network-Security-Toolkit)** — PathFinder & PathGuard
-Unified red/blue team network security toolkit built on a shared core library (NetworkMapper). PathFinder maps attack paths, lateral movement routes, and exfiltration channels with Shodan integration and MITRE ATT&CK coverage. PathGuard provides defensive choke point analysis, CIS/NIST-mapped hardening recommendations, baseline change detection, and a prioritized remediation roadmap.
-`Python` `Red Team` `Blue Team` `Network Security` `MITRE ATT&CK` `Shodan` `PathFinder` `PathGuard`
+**[AWS-SOC-lab](https://github.com/Rootless-Ghost/AWS-SOC-Lab)** — AWS Cloud Detection Lab
+CloudTrail-based detections in CloudWatch Logs Insights and Athena SQL, attack simulations for IAM privilege escalation, credential exfiltration, S3 enumeration and public exposure, CloudTrail disable, and EC2 post-exploitation via SSM RunCommand — with GuardDuty finding integration, 5 IR reports, and a Lambda auto-response playbook.
+`AWS` `CloudTrail` `GuardDuty` `CloudWatch Logs Insights` `Athena` `MITRE ATT&CK` `Detection Engineering` `Cloud Security`
 
 <br>
 
@@ -255,7 +237,7 @@ $\color{Goldenrod}\Large{\textsf{Current Focus}}$
 ---
 <br>
 
-- Nebula Forge Detection Suite v2 — 7 tools containerized and live (LogNorm, HuntForge, DriftWatch, ClusterIQ, AtomicLoop, VulnForge, WifiForge) + dashboard (5010) + Postgres — single `docker compose up -d`
+- Nebula Forge — 13 tools containerized and live (v1: SigmaForge, YaraForge, Threat-Intel-Dashboard, SnortForge, SIREN, EndpointForge; v2: LogNorm, HuntForge, DriftWatch, ClusterIQ, AtomicLoop, VulnForge, WifiForge) + dashboard (5010) + Postgres, 15 services total — setup scripts + single `docker compose up -d`
 - Purple team automation pipelines: drift-scan and purple-loop validated end-to-end April 2026
 - PSAP 2026 — SOC analyst and detection engineering roles
 - Expanding Wazuh SIEM detections and Splunk correlation rules
