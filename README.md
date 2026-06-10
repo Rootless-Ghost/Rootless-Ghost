@@ -216,12 +216,13 @@ Generates realistic SOC investigation scenarios from MITRE ATT&CK techniques —
 
 
 
-$\color{Goldenrod}\large{\textsf{Cloud Labs}}$
+$\color{Goldenrod}\large{\textsf{Detection Labs}}$
 ---
 | Lab | Layer | Description |
 |-----|-------|-------------|
 | [Azure-SOC-mini-lab](https://github.com/Rootless-Ghost/azure-soc-mini-lab) | Azure | KQL detections, 12 ATT&CK-mapped simulations, IR documentation, Sentinel playbooks |
 | [AWS-SOC-lab](https://github.com/Rootless-Ghost/aws-soc-lab) | AWS | CloudTrail detections, IAM/S3/EC2 attack sims, GuardDuty integration, Lambda auto-response |
+| [Malware-Detonation-Lab](https://github.com/Rootless-Ghost/Malware-Detonation-Lab) | On-Prem | Isolated FLARE-VM + REMnux sandbox, DNS sinkhole, local-capture detection workflow |
 
 **[Azure-SOC-mini-lab](https://github.com/Rootless-Ghost/Azure-SOC-Mini-Lab)** — Azure Cloud Detection Lab
 KQL detections, attack simulations (12 MITRE ATT&CK techniques mapped), and IR documentation for the Azure control plane — identity, compute, and key vault planes. Built on Microsoft Sentinel / Log Analytics with anomaly-based detection, synthetic log samples, and an automated NSG response playbook.
@@ -230,6 +231,10 @@ KQL detections, attack simulations (12 MITRE ATT&CK techniques mapped), and IR d
 **[AWS-SOC-lab](https://github.com/Rootless-Ghost/AWS-SOC-Lab)** — AWS Cloud Detection Lab
 CloudTrail-based detections in CloudWatch Logs Insights and Athena SQL, attack simulations for IAM privilege escalation, credential exfiltration, S3 enumeration and public exposure, CloudTrail disable, and EC2 post-exploitation via SSM RunCommand — with GuardDuty finding integration, 5 IR reports, and a Lambda auto-response playbook.
 `AWS` `CloudTrail` `GuardDuty` `CloudWatch Logs Insights` `Athena` `MITRE ATT&CK` `Detection Engineering` `Cloud Security`
+
+**[Malware-Detonation-Lab](https://github.com/Rootless-Ghost/Malware-Detonation-Lab)** — On-Prem Malware Detonation & Detection Lab
+Sealed FLARE-VM + REMnux sandbox on an isolated VMware LAN segment — no internet, no path to the production network. dnsmasq DNS sinkhole and INetSim fake services capture C2 callbacks while Sysmon (SwiftOnSecurity) instruments the host. Detonate → capture locally → revert → export telemetry offline into the Wazuh/Sysmon → Nebula Forge pipeline; live malware never touches the real SIEM.
+`FLARE-VM` `REMnux` `INetSim` `dnsmasq` `Sysmon` `VMware` `MITRE ATT&CK` `Detection Engineering` `Malware Analysis`
 
 <br>
 
