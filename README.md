@@ -325,7 +325,7 @@ $\color{CornflowerBlue}\normalsize{\textsf{Hardware }}$
 ![Syntax Eyes](syntax-eyes.gif)
 
 
-**Breaking to Build. Defending to Endure.**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=200&size=16&pause=1000&color=9D1AF7&center=true&multiline=true&width=600&lines=Breaking+to+Build.;Defending+to+Hold.)](https://git.io/typing-svg)
 
 ![image_alt](https://github.com/Rootless-Ghost/Epyon-Nebula/blob/main/Peronist%20gundam.gif)
 
