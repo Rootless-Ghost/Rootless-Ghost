@@ -169,7 +169,7 @@ $\color{Goldenrod}\Large{\textsf{Certifications}}$
 <br>
 
 **Certification Roadmap:**
-PSAA → PSAP → Sec+ → CCDL1 → PAPA → PJPT + PNPT
+PSAA → PSAP → Security+ → CCDL1 → PAPA → PJPT → PNPT
 
 <br>
 
