@@ -79,20 +79,6 @@ Nebula Forge includes two automated pipelines:
 | [YaraForge](https://github.com/Rootless-Ghost/YaraForge) | YARA rule generator with ATT&CK mapping and detection dashboard |
 | [SnortForge](https://github.com/Rootless-Ghost/SnortForge) | Snort 2/3 rule generator with multi-content chaining, performance scoring, and 12 detection templates |
 
-**[YaraForge](https://github.com/Rootless-Ghost/YaraForge)** - YARA Rule Generator & Testing Platform  
-Build, manage, test, and visualize YARA detection rules with MITRE ATT&CK mapping and a detection dashboard.  
-`Python` `Flask` `YARA` `MITRE ATT&CK` `Detection Engineering`
-
-**[SnortForge](https://github.com/Rootless-Ghost/SnortForge)** - SnortForge - Snort IDS/IPS Rule Generator — Flask web app with multi-content chaining, Snort 2/3 syntax toggle, rule performance scoring, 12 detection templates, inline help tooltips, PCRE flag checkboxes, HTTP URI/Header matching, rule validation, and .rules file import/export. Dark-themed UI with real-time live preview. v1.2.0.
-`Python` `Flask` `Snort` `IDS/IPS` `Network Security`
-
-**[SigmaForge](https://github.com/Rootless-Ghost/SigmaForge)** — Vendor-Agnostic Sigma Rule Generator
-Custom conversion engine (no pySigma dependency) generating Sigma rules 
-to 6 SIEM backends: Splunk SPL, Elastic KQL, EQL, Sentinel KQL, Wazuh XML, 
-and QRadar AQL — plus Detection-as-Code JSON. MITRE ATT&CK mapping, 
-12 pre-built templates, rule library, and standalone CLI.
-Python Flask Sigma SIEM Detection Engineering CLI
-`Python` `Flask` `Sigma` `SIEM` `Detection Engineering` `CLI`
 
 $\color{MediumOrchid}\large{\textsf{Nebula Forge Detection Suite v1}}$
 ---
@@ -117,49 +103,12 @@ $\color{MediumOrchid}\normalsize{\textsf{Nebula Forge Detection Suite v2}}$
 | [VulnForge](https://github.com/Rootless-Ghost/VulnForge) | 5012 | Exploit intel aggregator → ATT&CK mapping → pipeline trigger |
 | [WifiForge](https://github.com/Rootless-Ghost/WifiForge) | 5013 | 802.11 threat detector with deauth/rogue AP detection → LogNorm export |
  
-**[LogNorm](https://github.com/Rootless-Ghost/LogNorm)** - Log Source Normalizer *(port 5006)*  
-Normalizes log sources from disparate inputs into a consistent ECS-lite schema for downstream detection and analysis pipelines.  
-`Python` `Flask` `Log Normalization` `ECS` `SIEM`
- 
-**[HuntForge](https://github.com/Rootless-Ghost/HuntForge)** - MITRE ATT&CK Hunt Playbook Generator *(port 5007)*  
-Generates structured threat hunting playbooks mapped to MITRE ATT&CK techniques, providing analyst-ready queries and investigation checklists.  
-`Python` `Flask` `MITRE ATT&CK` `Threat Hunting` `Detection Engineering`
- 
-**[DriftWatch](https://github.com/Rootless-Ghost/DriftWatch)** - Sigma Rule Drift Analyzer *(port 5008)*  
-Analyzes Sigma rule libraries for drift — identifying stale, misconfigured, or coverage-gapped rules over time. Feeds the drift-scan pipeline.  
-`Python` `Flask` `Sigma` `Detection Engineering` `Rule Management`
- 
-**[ClusterIQ](https://github.com/Rootless-Ghost/ClusterIQ)** - Contextual Alert Clustering Engine *(port 5009)*  
-Groups and contextualizes alerts using behavioral clustering to reduce noise and surface high-fidelity incident signals for SOC triage.  
-`Python` `Flask` `Alert Clustering` `SOC` `Incident Response`
- 
-**[AtomicLoop](https://github.com/Rootless-Ghost/AtomicLoop)**  — Atomic Red Team Test Runner (port 5011)
-Executes Atomic Red Team tests in controlled loops for purple team validation, feeding results into the purple-loop pipeline for detection coverage measurement. Dedicated purple loop target: Win10x2 (Wazuh agent 005, AtomicLoop-Test).
-`Python` `Flask` `Atomic Red Team` `Purple Team` `MITRE ATT&CK`
- 
-**[VulnForge](https://github.com/Rootless-Ghost/VulnForge)** - Vulnerability & Exploit Intelligence Tool *(port 5012)*  
-Aggregates exploit intelligence from ExploitDB, NVD, and Metasploit, maps findings to MITRE ATT&CK techniques, and feeds results into the purple team pipeline — generating hunt playbooks, LogNorm-ready exports, and AtomicLoop simulation triggers from a single search.  
-`Python` `Flask` `MITRE ATT&CK` `Vulnerability Intelligence` `Purple Team`
- 
-**[WifiForge](https://github.com/Rootless-Ghost/WifiForge)** - Wireless Network Security Analyzer *(port 5013)*  
-Passively scans wireless networks, assesses security posture, detects deauth attacks and rogue configurations, maps findings to MITRE ATT&CK techniques, and exports results to the Nebula Forge LogNorm pipeline.  
-`Python` `Flask` `Scapy` `Wireless Security` `MITRE ATT&CK`
-
-
 $\color{green}\normalsize{\textsf{Endpoint Security}}$
 ---
 | Tool | Description |
 |------|-------------|
 | [EndpointForge](https://github.com/Rootless-Ghost/EndpointForge) | Cross-platform HIDS — process, FIM, network, registry, autoruns with Wazuh NDJSON export |
 | [EndpointTriage](https://github.com/Rootless-Ghost/EndpointTriage) | PowerShell IR artifact collector — processes, persistence, event logs, Sysmon, HTML report output |
-
-**[EndpointForge](https://github.com/Rootless-Ghost/EndpointForge)** - Cross-Platform Endpoint Security Monitor  
-Host-based intrusion detection and endpoint triage across 5 modules: process execution, file integrity (SHA-256 FIM), network connections, registry persistence (Windows), and autoruns — all MITRE ATT&CK mapped. Includes **Wazuh export integration**: `POST /api/wazuh/export` writes NDJSON picked up by the Wazuh agent using bundled decoder and rules (IDs 100200–100265) with ATT&CK technique tags — no manual log shipping. Markdown/JSON report generation for IR workflows.  
-`Python` `Flask` `MITRE ATT&CK` `HIDS` `Endpoint Security` `Wazuh`
- 
-**[EndpointTriage](https://github.com/Rootless-Ghost/EndpointTriage)** - Windows Endpoint Forensic Artifact Collector  
-Automated PowerShell-based IR triage script that collects volatile and non-volatile forensic artifacts — running processes with hashes, network connections, registry persistence checks, scheduled tasks, event log extraction (Security, Sysmon, PowerShell, Defender), named pipe enumeration, and suspicious indicator flagging. Outputs a structured triage package with HTML summary report.  
-`PowerShell` `Incident Response` `Forensics` `DFIR` `Endpoint Security`
 
 $\color{green}\normalsize{\textsf{Blue Team}}$
 ---
@@ -168,14 +117,6 @@ $\color{green}\normalsize{\textsf{Blue Team}}$
 | [Log-Analyzer](https://github.com/Rootless-Ghost/Log-Analyzer) | SOC-focused log analysis with pattern matching and anomaly detection |
 | [Phishing-Analyzer](https://github.com/Rootless-Ghost/Phishing-Analyzer) | Email header and content analysis for phishing campaign identification |
 
-**[Log-Analyzer](https://github.com/Rootless-Ghost/log-Analyzer)** - Security Log Analyzer  
-Python-based log analysis tool designed for SOC analysts with pattern matching and anomaly detection.  
-`Python` `SIEM` `Log Analysis` `SOC`
-
-**[Phishing-Analyzer](https://github.com/Rootless-Ghost/Phishing-Analyzer)** - Phishing Email Analyzer  
-Email header and content analysis tool for identifying phishing campaigns and malicious indicators.  
-`Python` `Email Security` `Phishing Detection` `Blue Team`
-
 $\color{green}\normalsize{\textsf{Threat Intelligence}}$
 ---
 | Tool | Description |
@@ -183,37 +124,17 @@ $\color{green}\normalsize{\textsf{Threat Intelligence}}$
 | [Threat-Intel-Dashboard](https://github.com/Rootless-Ghost/Threat-Intel-Dashboard) | Real-time IOC tracking, feed aggregation, and visual analytics for SOC operations |
 | [ThreatTape](https://github.com/Rootless-Ghost/ThreatTape) | Live IOC threat intel feed — AbuseIPDB + OTX aggregation with MITRE ATT&CK tagging |
 
-**[Threat-Intel-Dashboard](https://github.com/Rootless-Ghost/Threat-Intel-Dashboard)** - Threat Intelligence Dashboard  
-Real-time threat intelligence platform with IOC tracking, feed aggregation, and visual analytics for SOC operations.  
-`HTML` `JavaScript` `Threat Intelligence` `OSINT` `SOC`
-
-**[ThreatTape](https://github.com/Rootless-Ghost/ThreatTape)** - Live IOC Threat Intel Feed *(port 5014)*  
-Aggregates indicators of compromise from AbuseIPDB and AlienVault OTX, displays live IOC data with severity scoring, country of origin, community report counts, and MITRE ATT&CK technique tags. Falls back to curated mock data with no API keys required.  
-`Python` `Flask` `Threat Intelligence` `IOC` `MITRE ATT&CK` `AbuseIPDB` `OTX`
-
 $\color{green}\normalsize{\textsf{Incident Response}}$
 ---
 | Tool | Description |
 |------|-------------|
 | [SIREN](https://github.com/Rootless-Ghost/SIREN) | NIST 800-61 incident report generator with severity scoring, IOC tracking, and timeline management |
 
-**[SIREN](https://github.com/Rootless-Ghost/SIREN)** - Security Incident Response Engine & Notation  
-Professional incident report generator following NIST 800-61 framework with severity scoring, IOC tracking, timeline management, and Markdown/JSON export.  
-`Python` `Flask` `NIST 800-61` `Incident Response` `SOC`
-
-
 $\color{green}\normalsize{\textsf{Training}}$
 ---
 | Tool | Description |
 | --- | --- |
 | [WarGameForge](https://github.com/Rootless-Ghost/WarGameForge) | SOC investigation scenario generator — MITRE-driven, difficulty-scaled training |
-
-**[WarGameForge](https://github.com/Rootless-Ghost/WarGameForge)** - SOC Investigation Scenario Generator
-Generates realistic SOC investigation scenarios from MITRE ATT&CK techniques — complete with SIEM alert blocks, investigation clues, red herring artifacts, and step-by-step solution walkthroughs. Difficulty-scaled from easy to hard, 12 built-in techniques plus custom input.
-`Python` `Flask` `SOC Training` `MITRE ATT&CK` `Detection Engineering` `Blue Team`
-
-
-
 
 $\color{Goldenrod}\large{\textsf{Detection Labs}}$
 ---
@@ -222,18 +143,6 @@ $\color{Goldenrod}\large{\textsf{Detection Labs}}$
 | [Azure-SOC-mini-lab](https://github.com/Rootless-Ghost/azure-soc-mini-lab) | Azure | KQL detections, 12 ATT&CK-mapped simulations, IR documentation, Sentinel playbooks |
 | [AWS-SOC-lab](https://github.com/Rootless-Ghost/aws-soc-lab) | AWS | CloudTrail detections, IAM/S3/EC2 attack sims, GuardDuty integration, Lambda auto-response |
 | [Malware-Detonation-Lab](https://github.com/Rootless-Ghost/Malware-Detonation-Lab) | On-Prem | Isolated FLARE-VM + REMnux sandbox, DNS sinkhole, local-capture detection workflow |
-
-**[Azure-SOC-mini-lab](https://github.com/Rootless-Ghost/Azure-SOC-Mini-Lab)** — Azure Cloud Detection Lab
-KQL detections, attack simulations (12 MITRE ATT&CK techniques mapped), and IR documentation for the Azure control plane — identity, compute, and key vault planes. Built on Microsoft Sentinel / Log Analytics with anomaly-based detection, synthetic log samples, and an automated NSG response playbook.
-`Azure` `KQL` `Microsoft Sentinel` `MITRE ATT&CK` `Detection Engineering` `Cloud Security`
-
-**[AWS-SOC-lab](https://github.com/Rootless-Ghost/AWS-SOC-Lab)** — AWS Cloud Detection Lab
-CloudTrail-based detections in CloudWatch Logs Insights and Athena SQL, attack simulations for IAM privilege escalation, credential exfiltration, S3 enumeration and public exposure, CloudTrail disable, and EC2 post-exploitation via SSM RunCommand — with GuardDuty finding integration, 5 IR reports, and a Lambda auto-response playbook.
-`AWS` `CloudTrail` `GuardDuty` `CloudWatch Logs Insights` `Athena` `MITRE ATT&CK` `Detection Engineering` `Cloud Security`
-
-**[Malware-Detonation-Lab](https://github.com/Rootless-Ghost/Malware-Detonation-Lab)** — On-Prem Malware Detonation & Detection Lab
-Sealed FLARE-VM + REMnux sandbox on an isolated VMware LAN segment — no internet, no path to the production network. dnsmasq DNS sinkhole and INetSim fake services capture C2 callbacks while Sysmon (SwiftOnSecurity) instruments the host. Detonate → capture locally → revert → export telemetry offline into the Wazuh/Sysmon → Nebula Forge pipeline; live malware never touches the real SIEM.
-`FLARE-VM` `REMnux` `INetSim` `dnsmasq` `Sysmon` `VMware` `MITRE ATT&CK` `Detection Engineering` `Malware Analysis`
 
 <br>
 
