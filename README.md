@@ -4,7 +4,7 @@
 
 ---
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=200&size=16&pause=1000&color=9D1AF7&center=true&multiline=true&width=600&lines=Trained+for+chaos.+Built+for+defense.;From+combat+zones+to+kill+chains.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=200&size=16&pause=3500&color=9D1AF7&center=true&multiline=true&width=600&lines=Trained+for+chaos.+Built+for+defense.;From+combat+zones+to+kill+chains.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=200&size=16&pause=1000&color=00D4FF&center=true&multiline=true&width=600&height=140&lines=I+break+it+to+understand+it.;I+defend+it+because+I+can.;The+work+speaks+when+I+don't.)](https://git.io/typing-svg)
 
 ![Tagline](svgfiles/header-tagline.svg)
@@ -44,18 +44,18 @@ $\color{Goldenrod}\Large{\textsf{What I Do}}$
 ---
 <br>
 
-$\color{Red}\normalsize{\textsf{Red Team}}$
-- Penetration Testing & Security Research
-- Red team operations & exploitation
-- Active Directory & Windows exploitation
-- Network security & privilege escalation
-
 $\color{LightSkyBlue}\normalsize{\textsf{Blue Team}}$
 - Threat detection & incident response
 - SIEM analysis & log correlation
 - Threat hunting & malware analysis
 - Security monitoring & alerting
 
+$\color{Red}\normalsize{\textsf{Red Team}}$
+- Penetration Testing & Security Research
+- Red team operations & exploitation
+- Active Directory & Windows exploitation
+- Network security & privilege escalation
+  
 <br>
 
 $\color{Goldenrod}\Large{\textsf{Featured Projects}}$
