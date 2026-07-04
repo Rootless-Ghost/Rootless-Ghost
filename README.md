@@ -29,13 +29,13 @@ $\color{Goldenrod}\Large{\textsf{About Me}}$
 ---
 <br>
 
-Former Navy Hospital Corpsman (8404/FMF), combat-deployed with Marine infantry, now building a career in security operations. Offensive and defensive security with a purple-team mindset — translating attacker tradecraft into defensive improvements.
+**Former Navy Hospital Corpsman (8404/FMF)**, combat-deployed with Marine infantry, now building a career in security operations. Offensive and defensive security with a purple-team mindset — translating attacker tradecraft into defensive improvements.
 
-Purple Team & SOC Focus — building both offensive and defensive capabilities
-Operating a 22+ VM home lab for attack simulation and detection engineering
-Pursuing the PSAA → PSAP → CCDL1 → Security+ → PJPT → PAPA → PNPT TCM Security path
-TryHackMe Top 1% — 270+ rooms completed
-Actively seeking SOC Analyst & Purple Team roles
+**Purple Team & SOC Focus** — building both offensive and defensive capabilities<br>
+Operating a **22+ VM home lab** for attack simulation and detection engineering<br>
+Pursuing the **PSAA → PSAP → CCDL2 → Sec+ → PAPA → PJPT → PNPT → PMRP** TCM Security path<br>
+**TryHackMe Top 1%** — 270+ rooms completed<br>
+Actively seeking **SOC Analyst & Purple Team** roles
 
 <br>
 
