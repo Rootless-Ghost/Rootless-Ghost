@@ -38,7 +38,6 @@ Operating a 22+ VM home lab for attack simulation and detection engineering
 Pursuing the PSAA → PSAP → CCDL1 → Security+ → PJPT → PAPA → PNPT TCM Security path
 
 TryHackMe Top 1% — 270+ rooms completed
-
 Actively seeking SOC Analyst & Purple Team roles
 
 <br>
