@@ -29,13 +29,12 @@ $\color{Goldenrod}\Large{\textsf{About Me}}$
 ---
 <br>
 
-**Former Navy Corpsman** to cybersecurity with real-world combat experience. I bring military discipline, high-pressure decision-making skills, and a systematic approach to threat detection and incident response.
-
-Purple Team & SOC Focus — building both offensive and defensive capabilities                                                                                                                                
-Operating a 22+ VM home lab for attack simulation and detection engineering  
-Pursuing **PSAA → PSAP → Security+ → CCDL1 → PAPA → PJPT → PNPT** certification path  
-**(Inactive) TryHackMe Top 1%** - 270+ rooms completed         
-Actively seeking **SOC Analyst & Purple Team** roles
+Former Navy Hospital Corpsman (8404/FMF), combat-deployed with Marine infantry, now building a career in security operations. Offensive and defensive security with a purple-team mindset — translating attacker tradecraft into defensive improvements.
+Purple Team & SOC Focus — building both offensive and defensive capabilities
+Operating a 22+ VM home lab for attack simulation and detection engineering
+Pursuing the PSAA → PSAP → CCDL1 → Security+ → PJPT → PAPA → PNPT TCM Security path
+TryHackMe Top 1% — 270+ rooms completed
+Actively seeking SOC Analyst & Purple Team roles
 
 <br>
 
