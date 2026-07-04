@@ -169,7 +169,7 @@ $\color{Goldenrod}\Large{\textsf{Certifications}}$
 <br>
 
 **Certification Roadmap:**
-PSAA → PSAP → Security+ → CCDL1 → PAPA → PJPT → PNPT
+PSAA → PSAP → CCDL2 → Sec+ → PAPA → PJPT → PNPT → PMRP → Cloud (AWS or Azure)
 
 <br>
 
