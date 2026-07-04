@@ -33,7 +33,8 @@ $\color{Goldenrod}\Large{\textsf{About Me}}$
 
 **Purple Team & SOC Focus** — building both offensive and defensive capabilities<br>
 Operating a **22+ VM home lab** for attack simulation and detection engineering<br>
-Pursuing the **PSAA → PSAP → CCDL2 → Sec+ → PAPA → PJPT → PNPT → PMRP** TCM Security path<br>
+Pursuing the **PSAA → PSAP → PAPA → PJPT → PNPT → PMRP TCM** TCM Security path<br>
+Security path (Sec+ / CCDL2 optional)<br>
 **TryHackMe Top 1%** — 270+ rooms completed<br>
 Actively seeking **SOC Analyst & Purple Team** roles
 
@@ -168,8 +169,8 @@ $\color{Goldenrod}\Large{\textsf{Certifications}}$
   
 <br>
 
-**Certification Roadmap:**
-PSAA → PSAP → CCDL2 → Sec+ → PAPA → PJPT → PNPT → PMRP → Cloud (AWS or Azure)
+**Certification Roadmap:** PSAA → PSAP → PAPA → PJPT → PNPT → PMRP → Cloud (AWS or Azure)<br>
+*Optional / conditional:* Security+ (if required by an HR filter) · CCDL2 (Cyber Defenders)
 
 <br>
 
