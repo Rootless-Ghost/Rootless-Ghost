@@ -65,7 +65,7 @@ $\color{MediumOrchid}\large{\textsf{Nebula Forge Detection Suite}}$
 
 **[Nebula Forge](https://github.com/Rootless-Ghost/nebula-forge)** is an open-source SOC platform covering the full workflow: Detect → Normalize → Hunt → Drift → Cluster → Simulate → Investigate → Respond → Report. The full suite runs as a fully containerized stack — 13 containerized tools, 15 services total, a shared Postgres backend, and a central dashboard — clone all repos with the included setup script, then a single `docker compose up -d` starts all services. The dashboard (port 5010) provides live status, one-click launches, and pipeline monitoring across all 16 tools and 4 pipelines in the org.
 
-Nebula Forge includes two automated pipelines:
+Nebula Forge includes four automated pipelines:
 - **IR-Chain** — zero-touch incident response: EndpointTriage → log-analyzer → SIREN
 - **Detection-Pipeline** — one IOC list → Sigma, YARA, and Snort rules in a single command
 - **Drift-scan** — Sigma rule drift analysis: normalize logs (LogNorm) → fetch rules (SigmaForge) → coverage gaps (DriftWatch)
