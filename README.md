@@ -170,7 +170,7 @@ $\color{Goldenrod}\Large{\textsf{Certifications}}$
   
 <br>
 
-**Certification Roadmap:** PSAA → PSAP → PAPA → PJPT → PNPT → PMRP → Cloud (AWS or Azure)<br>
+**Certification Roadmap:** PSAA → PSAP → PMRP → PJPT → PORP → PNPT → PAPA → Cloud (AWS or Azure)<br>
 *Optional / conditional:* Security+ (if required by an HR filter) · CCDL2 (Cyber Defenders)
 
 <br>
